@@ -71,9 +71,7 @@ ul a:hover, a:active {
 #socials {
   margin: 0;
 }
-.media-images-svg {
-  display: inline-flex;
-}
+
 #socials > li > a.twitter > img {
   width: auto;
   height: auto;
