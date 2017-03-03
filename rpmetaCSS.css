@@ -135,6 +135,9 @@ ul a:hover, a:active {
 #socials {
   display: inline-flex;
 }
+#socials > li {
+  display: inline-flex; 
+}
 
 
 #testingtesttest.media-buttons {
