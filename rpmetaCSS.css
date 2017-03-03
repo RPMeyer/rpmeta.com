@@ -143,6 +143,10 @@ ul a:hover, a:active {
   display: inline-flex;
 }
 
+#socials > li > a > img {
+  height: 50px;
+}
+
 
 #testingtesttest.media-buttons {
   display: inline-flex;
