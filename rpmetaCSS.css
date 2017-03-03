@@ -187,8 +187,11 @@ ul a:hover, a:active {
   padding-left: 1em;
   display: flex;
 }
-#main-menu > a > span {
+#main-menu > a {
   margin: auto;
+}
+
+#main-menu > a > span {
   font: 300 1em 'PT Sans', arial, sans-serif;
 }
 #main-menu > #section-menu {
