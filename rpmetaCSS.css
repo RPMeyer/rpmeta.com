@@ -9,7 +9,11 @@ body {
 #splashRPM {
   /*margin-top: -16em !important;*/
 }
-
+.affix {
+      top: 0;
+      width: 100%;
+  }
+  
 a:link, a:visited {
 
     font-weight: bold;
