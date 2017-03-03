@@ -68,10 +68,6 @@ ul a:hover, a:active {
   display: block;
 }
 
-#media-buttons {
-  display: inline;
-}
-
 #top-nav > li {
   padding:auto;
   float: left;
@@ -121,10 +117,21 @@ ul a:hover, a:active {
   display: none;
 }
 
+
 #logo {
   /*margin-left: 5%;*/
   max-width: 100%;
+  display: inline-flex;
 }
+
+#section-menu {
+  display: inline-flex;
+}
+
+#media-buttons {
+  display: inline-flex;
+}
+
 
 #testingtesttest.media-buttons {
   display: inline-flex;
