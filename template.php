@@ -70,10 +70,9 @@ class Template
                             <li id="menu-item-about" class="menu-item"><a href="http://rpmeta.com/meta.rpmeta.com/index.php">Meta</a></li>
                             <li id="menu-item-about" class="menu-item"><a href="http://rpmeta.com/about.rpmeta.com/index.php">About</a></li>
                             <li id="menu-item-news" class="menu-item"><a href="http://rpmeyer.org/News/index.php">Subscribe</a></li>
-                            <li id="menu-item-shop" class="menu-item"><a href="http://rpmeyer.org/opencart/index.php">Shop</a></li>
                         </ul>
                         <a href="#splashRPM" class="nav-close">
-                            <span>Return to Content</span>
+                            <span style="font='sans-serif'">Return to Content</span>
                         </a>
                         <!-- /#side-nav -->
                     </section>
