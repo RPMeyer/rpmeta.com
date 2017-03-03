@@ -82,10 +82,10 @@ class Template
                       <ul>
                         <li>
                           <a href="https://www.facebook.com/rpmeta" class="facebook">
-                            <img src="http://rpmeta.comn/res/FacebookF.svg" alt=""/></img>
+                            <img src="http://rpmeta.com/res/FacebookF.svg" alt=""/></img>
                           </a>
                           <a href="https://twitter.com/arrpmeyer" class="twitter">
-                            <img src="http://rpmeta.comn/res/TwitterBird.svg" alt=""/></img>
+                            <img src="http://rpmeta.com/res/TwitterBird.svg" alt=""/></img>
                           </a>
                         </li>
                       </ul>
