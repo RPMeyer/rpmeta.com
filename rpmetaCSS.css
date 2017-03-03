@@ -151,7 +151,7 @@ ul a:hover, a:active {
 
 #socials > li > a {
   font: 300 1em 'PT Sans', arial, sans-serif;
-  padding: 1em;
+  padding: 0;
   display: inline-block;
 }
 
