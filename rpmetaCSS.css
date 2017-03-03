@@ -127,11 +127,12 @@ ul a:hover, a:active {
 #section-menu > a,span{
   display: inline;
   float: right;
-  font-family: sans-serif;
+
 }
 
 #section-menu > a >span {
   padding: 1em;
+  font-family: sans-serif;
 }
 #main-menu {
   padding-left: 1em;
