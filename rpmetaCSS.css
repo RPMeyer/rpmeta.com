@@ -68,19 +68,6 @@ ul a:hover, a:active {
   display: block;
 }
 
-#media-buttons {
-  display: inline-flex;
-}
-
-#media-buttons > ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-#media-buttons > ul > li {
-  display: inline-flex;
-}
 #socials > li > a.twitter > img {
   width: auto;
   height: auto;
