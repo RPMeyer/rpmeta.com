@@ -67,6 +67,10 @@ ul a:hover, a:active {
   display: block;
 }
 
+#media-buttons {
+  display: inline-flex;
+}
+
 #media-buttons > ul {
   list-style-type: none;
   margin: 0;
