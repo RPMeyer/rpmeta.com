@@ -11,8 +11,8 @@ body {
 }
 #splashRPM {
   /*margin-top: -16em !important;*/
-  margin: auto;
 }
+
 .affix {
       top: 0px !important;
       position: fixed !important;
@@ -186,6 +186,10 @@ ul a:hover, a:active {
 #main-menu {
   padding-left: 1em;
   display: flex;
+}
+#main-menu > a > span {
+  margin: auto;
+  font: 300 1em 'PT Sans', arial, sans-serif;
 }
 #main-menu > #section-menu {
   position: relative;
