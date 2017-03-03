@@ -145,8 +145,9 @@ ul a:hover, a:active {
 
 #socials > li > a > img {
   height: 35px;
-  margin-left: auto;
-	margin-right: auto;
+  margin-top: auto;
+	margin-bottom: auto;
+  display: inline-flex;
 }
 
 
