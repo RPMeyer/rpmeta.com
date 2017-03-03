@@ -10,6 +10,8 @@ class Template
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 <link rel="stylesheet" href="rpmetaCSS.css">
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
@@ -56,7 +58,7 @@ class Template
 
             <!--#nav-container FORMATTED RPM-->
             <div id="nav-container">
-                <nav id="main-menu" class="col-full" role="navigation">
+                <nav id="main-menu" class="col-full" role="navigation" data-spy="affix" data-offset-top="197">
                     <div id="logo">
                         <a href="http://www.rpmeyer.org/" title=""><img src="http://rpmeyer.org/RPMlogoSheared1.svg" alt=""/></a>
                         <span class="site-title"><a href="http://www.rpmeta.com/">RPMeta</a></span>
