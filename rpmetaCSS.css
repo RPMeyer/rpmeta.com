@@ -68,18 +68,8 @@ ul a:hover, a:active {
   display: block;
 }
 
-#socials {
-  margin: 0;
-  padding: 0;
-}
-
-#socials > li > a.twitter > img {
-  width: auto;
-  height: auto;
-}
-#socials > li > a.facebook > img {
-  width: auto;
-  height: auto;
+#media-buttons {
+  display: inline;
 }
 
 #top-nav > li {
