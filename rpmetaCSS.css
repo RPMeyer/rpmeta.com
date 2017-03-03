@@ -14,6 +14,9 @@ body {
       width: 100%;
   }
 
+.affix + .nav-container {
+  padding-top: 70px;
+}
 a:link, a:visited {
 
     font-weight: bold;
