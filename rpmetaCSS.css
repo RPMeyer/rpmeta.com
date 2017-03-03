@@ -70,6 +70,8 @@ ul a:hover, a:active {
 #media-buttons > ul {
   list-style-type: none;
   display: inline;
+  margin: none;
+  padding: none;
 }
 
 #media-buttons > ul > li {
