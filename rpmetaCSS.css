@@ -67,6 +67,9 @@ ul a:hover, a:active {
   display: block;
 }
 
+#media-buttons > li {
+  list-style-type: none;
+}
 #top-nav > li {
   padding:auto;
   float: left;
