@@ -131,13 +131,15 @@ ul a:hover, a:active {
 }
 
 #media-buttons {
-  display: inline-flex;
+  position: relative;
 }
 
 #socials {
-  display: inline-flex;
+  list-style-type: none;
+  display: inline-block;
   margin: 0;
-  padding: 0;
+  float: left;
+  padding-left: 1em;
 }
 #socials > li {
   display: inline-flex;
@@ -145,9 +147,13 @@ ul a:hover, a:active {
 
 #socials > li > a > img {
   height: 35px;
-  padding: 1em;
 }
 
+#socials > li > a {
+  font: 300 1em 'PT Sans', arial, sans-serif;
+  padding: 1em;
+  display: inline-block;
+}
 
 #testingtesttest.media-buttons {
   display: inline-flex;
