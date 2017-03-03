@@ -81,8 +81,13 @@ ul a:hover, a:active {
 #media-buttons > ul > li {
   display: inline-flex;
 }
-
-#socials > img {
+#socials > li > a.twitter > img {
+  width: auto;
+  height: auto;
+  max-width: 100%;
+  max-height: 100%;
+}
+#socials > li > a.facebook > img {
   width: auto;
   height: auto;
   max-width: 100%;
