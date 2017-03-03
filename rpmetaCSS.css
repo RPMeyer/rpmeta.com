@@ -70,6 +70,7 @@ ul a:hover, a:active {
 
 #socials {
   margin: 0;
+  padding: 0;
 }
 
 #socials > li > a.twitter > img {
