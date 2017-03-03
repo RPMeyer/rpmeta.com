@@ -76,7 +76,7 @@ ul a:hover, a:active {
   display: inline-flex;
 }
 
-#socials > li > a.facebook a.twitter > img {
+#socials > li > a.facebook + a.twitter > img {
   height: 3em;
 }
 
