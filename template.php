@@ -72,7 +72,7 @@ class Template
                             <li id="menu-item-news" class="menu-item"><a href="http://rpmeyer.org/News/index.php">Subscribe</a></li>
                         </ul>
                         <a href="#splashRPM" class="nav-close">
-                            <span style="font='caption'">Return to Content</span>
+                            <span style="font=caption">Return to Content</span>
                         </a>
                         <!-- /#side-nav -->
                     </section>
