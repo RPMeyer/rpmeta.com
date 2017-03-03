@@ -113,7 +113,7 @@ ul a:hover, a:active {
 }
 
 #testingtesttest.media-buttons {
-  display: inline-flex !important;
+  display: inline-flex;
   float: right;
 }
 
