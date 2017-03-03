@@ -131,23 +131,21 @@ ul a:hover, a:active {
 }
 
 #media-buttons {
-  vertical-align: middle;
   display: inline-flex;
 }
 
 #socials {
   display: inline-flex;
   margin: 0;
-  vertical-align: middle;
   padding: 0;
 }
 #socials > li {
   display: inline-flex;
-  vertical-align: middle;
 }
 
 #socials > li > a > img {
   height: 35px;
+  padding: 1em;
 }
 
 
@@ -171,13 +169,11 @@ ul a:hover, a:active {
 
 #section-menu > a,span{
   display: inline;
-  vertical-align: middle;
   float: right;
 
 }
 
 #section-menu > a >span {
-  vertical-align: middle;
   padding: 1em;
   font-family: sans-serif;
 }
