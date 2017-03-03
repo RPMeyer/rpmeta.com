@@ -70,6 +70,15 @@ ul a:hover, a:active {
 #media-buttons > ul {
   list-style-type: none;
 }
+
+#media-buttons > ul > li {
+  display: inline-flex;
+}
+
+#media-buttons > .facebook .twitter {
+  height: 25px;
+}
+
 #top-nav > li {
   padding:auto;
   float: left;

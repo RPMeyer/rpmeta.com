@@ -79,7 +79,7 @@ class Template
                         <!-- /#side-nav -->
                     </section>
                     <div id="media-buttons" class="media-images-svg">
-                      <ul>
+                      <ul id="socials">
                         <li>
                           <a href="https://www.facebook.com/rpmeta" class="facebook">
                             <img src="http://rpmeta.com/res/FacebookF.svg" alt=""/></img>
