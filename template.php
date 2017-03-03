@@ -57,8 +57,8 @@ class Template
             <!--/#header-container-->
 
             <!--#nav-container FORMATTED RPM-->
-            <div id="nav-container">
-                <nav id="main-menu" class="col-full" role="navigation" data-spy="affix" data-offset-top="197">
+            <div id="nav-container" data-spy="affix" data-offset-top="197">
+                <nav id="main-menu" class="col-full" role="navigation">
                     <div id="logo">
                         <a href="http://www.rpmeyer.org/" title=""><img src="http://rpmeyer.org/RPMlogoSheared1.svg" alt=""/></a>
                         <span class="site-title"><a href="http://www.rpmeta.com/">RPMeta</a></span>
