@@ -2,6 +2,8 @@ img {
     vertical-align: middle;
     width: auto;
     height: 100%;
+    max-height: auto;
+    max-width: auto;
 }
 
 body {
