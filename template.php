@@ -65,6 +65,9 @@ class Template
                         <h3>Main Nav</h3>
                         <ul id="main-menu-list" class="nav">
                             <li id="menu-item-home" class="menu-item"><a href="http://rpmeta.com">Home</a></li>
+                            <li id="menu-item-about" class="menu-item"><a href="http://rpmeta.com/reviews.rpmeta.com/index.php">Reviews</a></li>
+                            <li id="menu-item-about" class="menu-item"><a href="http://rpmeta.com/products.rpmeta.com/index.php">Products</a></li>
+                            <li id="menu-item-about" class="menu-item"><a href="http://rpmeta.com/meta.rpmeta.com/index.php">Meta</a></li>
                             <li id="menu-item-about" class="menu-item"><a href="http://rpmeta.com/about.rpmeta.com/index.php">About</a></li>
                             <li id="menu-item-news" class="menu-item"><a href="http://rpmeyer.org/News/index.php">Subscribe</a></li>
                             <li id="menu-item-shop" class="menu-item"><a href="http://rpmeyer.org/opencart/index.php">Shop</a></li>
