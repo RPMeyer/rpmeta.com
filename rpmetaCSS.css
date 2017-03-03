@@ -11,6 +11,7 @@ body {
 }
 #splashRPM {
   /*margin-top: -16em !important;*/
+  margin: auto;
 }
 .affix {
       top: 0px !important;
