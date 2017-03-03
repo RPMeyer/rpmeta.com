@@ -91,7 +91,7 @@ class Template
                     </div>
 
                     <a href="#splashRPM" class="nav-close">
-                        <span>Return to Content</span>
+                        <span>top</span>
                     </a>
                     <!-- /.menus -->
                 </nav>
