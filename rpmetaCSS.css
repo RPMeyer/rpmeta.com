@@ -67,7 +67,7 @@ ul a:hover, a:active {
   display: block;
 }
 
-#media-buttons > li {
+#media-buttons > ul {
   list-style-type: none;
 }
 #top-nav > li {
