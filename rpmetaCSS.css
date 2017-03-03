@@ -109,7 +109,7 @@ ul a:hover, a:active {
 #logo > a > img {
 
   top: 32px;
-  height: 3em   !important;
+  height: 3.2em   !important;
   float: left;
   z-index: 99998 !important;
   position: inherit;
@@ -123,7 +123,7 @@ ul a:hover, a:active {
 #logo {
   /*margin-left: 5%;*/
   max-width: 100%;
-  display: inline-flex;
+  display: inline;
 }
 
 #section-menu {
@@ -138,7 +138,7 @@ ul a:hover, a:active {
   list-style-type: none;
   display: inline-block;
   margin: 0;
-  padding: 1em;
+  padding: .5em;
 }
 #socials > li {
   display: inline-flex;
