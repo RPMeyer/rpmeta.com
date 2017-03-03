@@ -60,7 +60,7 @@ class Template
             <div id="nav-container" data-spy="affix" data-offset-top="197">
                 <nav id="main-menu" class="col-full" role="navigation">
                     <div id="logo">
-                        <a href="http://www.rpmeyer.org/" title=""><img src="http://rpmeyer.org/RPMlogoSheared1.svg" alt=""/></a>
+                        <a href="http://www.rpmeta.com/" title=""><img src="http://rpmeyer.org/RPMlogoSheared1.svg" alt=""/></a>
                         <span class="site-title"><a href="http://www.rpmeta.com/">RPMeta</a></span>
                     </div>
                     <section id="section-menu" class="menus">
@@ -78,6 +78,18 @@ class Template
                         </a>
                         <!-- /#side-nav -->
                     </section>
+                    <div id="media-buttons" class="media-images-svg">
+                      <ul>
+                        <li>
+                          <a href="https://www.facebook.com/rpmeta" class="facebook">
+                            <img src="http://rpmeta.comn/res/FacebookF.svg" alt=""/></img>
+                          </a>
+                          <a href="https://twitter.com/arrpmeyer" class="twitter">
+                            <img src="http://rpmeta.comn/res/TwitterBird.svg" alt=""/></img>
+                          </a>
+                        </li>
+                      </ul>
+                    </div>
                     <!-- /.menus -->
                 </nav>
             </div>
@@ -108,7 +120,7 @@ class Template
             </div>
         </div>
     </div>
-    <div class="media-buttons" id="testingtesttest">
+    <div class="media-buttons-test" id="testingtesttest">
         <a href="https://twitter.com/francklycrochet" class="twitter-follow-button" data-show-count="false">Follow @francklycrochet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
         <a data-pin-do="buttonFollow" href="https://www.pinterest.com/francklycrochet/">FrancklyKayCrochet</a> <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
         <div class="fb-like" style="display: inline-flex" data-href="https://www.facebook.com/francklykaycrochet/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
