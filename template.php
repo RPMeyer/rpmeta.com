@@ -36,7 +36,7 @@ class Template
 <body class="full-header">
 <!-- #top FORMATTED RPM-->
     <div id="top">
-        <div id="top-nav-container" class="col-full">
+        <!-- <div id="top-nav-container" class="col-full">
             <h3 class="top-menu">Secondary Nav</h3>
             <ul id="top-nav" class="top-navigation">
                 <li id="menu-item-1" class="menu-item 1"><a target="_blank" href="http://resume.rpmeyer.org/ResumeRedux.pdf">Resume</a></li>
@@ -46,7 +46,7 @@ class Template
                 <li id="menu-item-5" class="menu-item 5"><a href="http://rpmeyer.org/WDV341Homework.php">Advanced CSS</a></li>
                 <li id="menu-item-5" class="menu-item 6"><a href="http://rpmeyer.org/WDV351Homework.php">Website Applications</a></li>
             </ul>
-        </div>
+        </div> -->
     </div>
 <!-- /#top FORMATTED RPM-->
     <div id="wrapper">
