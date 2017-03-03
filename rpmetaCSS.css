@@ -134,9 +134,11 @@ ul a:hover, a:active {
 
 #socials {
   display: inline-flex;
+  margin: 0;
+  padding: 0;
 }
 #socials > li {
-  display: inline-flex; 
+  display: inline-flex;
 }
 
 
