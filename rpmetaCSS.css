@@ -69,14 +69,15 @@ ul a:hover, a:active {
 
 #media-buttons > ul {
   list-style-type: none;
+  display: inline;
 }
 
 #media-buttons > ul > li {
   display: inline-flex;
 }
 
-#media-buttons > .facebook .twitter {
-  height: 25px;
+#socials > li > a.facebook a.twitter {
+  height: 10em;
 }
 
 #top-nav > li {
