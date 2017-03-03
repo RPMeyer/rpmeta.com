@@ -42,7 +42,7 @@ ul a:hover, a:active {
 }
 .splashpage-container-wrapper {
     position: relative;
-    padding-top: 34%;
+    padding-top: 20%;
 }
 
 /*-------------------------------------------------------------------------------------------*/
@@ -240,6 +240,5 @@ html, body {
     outline: 0;
     font-size: 100%;
     vertical-align: baseline;
-    background: transparent;
-    background-color: transparent;
+    background-color: darkgrey;
 }
