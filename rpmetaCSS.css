@@ -127,6 +127,7 @@ ul a:hover, a:active {
 #section-menu > a,span{
   display: inline;
   float: right;
+  font-family: sans-serif;
 }
 
 #section-menu > a >span {
