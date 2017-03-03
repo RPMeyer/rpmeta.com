@@ -112,7 +112,7 @@ ul a:hover, a:active {
   max-width: 100%;
 }
 
-#media-buttons {
+.media-buttons {
   display: inline-flex;
   float: right;
 }
