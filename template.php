@@ -59,13 +59,13 @@ class Template
                 <nav id="main-menu" class="col-full" role="navigation">
                     <div id="logo">
                         <a href="http://www.rpmeyer.org/" title=""><img src="http://rpmeyer.org/RPMlogoSheared1.svg" alt=""/></a>
-                        <span class="site-title"><a href="http://www.rpmeyer.org/">RPMeyer</a></span>
+                        <span class="site-title"><a href="http://www.rpmeta.com/">RPMeta</a></span>
                     </div>
                     <section id="section-menu" class="menus">
                         <h3>Main Nav</h3>
                         <ul id="main-menu-list" class="nav">
                             <li id="menu-item-home" class="menu-item"><a href="http://rpmeta.com">Home</a></li>
-                            <li id="menu-item-about" class="menu-item"><a href="http://www.rpmeta.com/about">About</a></li>
+                            <li id="menu-item-about" class="menu-item"><a href="http://rpmeta.com/about.rpmeta.com/index.php">About</a></li>
                             <li id="menu-item-news" class="menu-item"><a href="http://rpmeyer.org/News/index.php">Subscribe</a></li>
                             <li id="menu-item-shop" class="menu-item"><a href="http://rpmeyer.org/opencart/index.php">Shop</a></li>
                         </ul>

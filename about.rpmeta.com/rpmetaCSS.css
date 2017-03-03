@@ -1,0 +1,238 @@
+img {
+    vertical-align: bottom;
+    max-width: 100%;
+}
+
+body {
+  z-index:0;
+}
+#splashRPM {
+  margin-top: -16em !important;
+}
+
+a:link, a:visited {
+
+    font-weight: bold;
+    color: #000000;
+    text-align: center;
+
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+ul a:hover, a:active {
+    background-color: #7A991A;
+}
+
+
+.entry p a img {
+  max-width: 100%;
+  height: auto;
+}
+
+.splashpage-featured-image-conatiner img {
+    bottom: 0px !important;
+		position: fixed;
+		top: 75px;
+    max-width: 100%;
+		background-color: transparent !important;
+		vertical-align: bottom;
+		-webkit-font-smoothing: antialiased;
+		z-index:-1;
+}
+.splashpage-container-wrapper {
+    position: relative;
+    padding-top: 34%;
+}
+
+/*-------------------------------------------------------------------------------------------*/
+/* 2. Top Nav */
+/*-------------------------------------------------------------------------------------------*/
+
+#top-nav > li > a{
+  font: 300 12px/1.6em 'PT Sans', arial, sans-serif;
+  padding-top: 0.5em !important;
+  padding-bottom: 0.5em !important;
+  padding: 1em;
+  color: #ddd;
+  display: block;
+}
+
+#top-nav > li {
+  padding:auto;
+  float: left;
+  display: inline;
+}
+
+#top-nav {
+  padding-left: 0;
+  margin: inherit;
+}
+
+#top > #top-nav-container {
+  float: right;
+  padding-right: 1em;
+}
+#top-nav-container > h3 {
+    display: none;
+    font: bold 1.8em/1.2em 'Oswald', arial, sans-serif;
+    color: #003965;
+}
+#top {
+    z-index: 99998!important;
+    position: fixed;
+    width: 100%;
+    top: 0 !important;
+    display: block !important;
+    background: rgba(0,57,104, .9);
+}
+
+/*-------------------------------------------------------------------------------------------*/
+/* 2. Top Nav END */
+/*-------------------------------------------------------------------------------------------*/
+
+/*-------------------------------------------------------------------------------------------*/
+/* 3.MAIN Nav */
+/*-------------------------------------------------------------------------------------------*/
+#logo > a > img {
+
+  top: 32px;
+  height: 3em   !important;
+  float: left;
+  z-index: 99998 !important;
+  position: inherit;
+}
+
+#logo > span {
+  display: none;
+}
+
+#logo {
+  margin-left: 5%;
+  max-width: 100%;
+}
+
+#nav-container {
+  float: left;
+  position: fixed;
+  top: 31px;
+  z-index: 99997;
+  width: 100%;
+  background: #f0f0f0;
+}
+#section-menu > h3 {
+  display: none;
+}
+
+#section-menu > a,span{
+  display: inline;
+  float: right;
+}
+
+#section-menu > a >span {
+  padding: 1em;
+}
+#main-menu {
+  padding-left: 1em;
+  display: flex;
+}
+#main-menu > #section-menu {
+  position: relative;
+  width: 100%;
+}
+
+#main-menu-list > li > a{
+  font: 300 1em 'PT Sans', arial, sans-serif;
+  padding: 1em;
+  display: inline-block;
+}
+#main-menu-list > li {
+  float: left;
+}
+
+#main-menu-list{
+  list-style-type: none;
+  display: inline-block;
+  margin: 0;
+  float: left;
+  padding-left: 1em;
+
+}
+
+/*-------------------------------------------------------------------------------------------*/
+/* 3.MAIN Nav END */
+/*-------------------------------------------------------------------------------------------*/
+
+/*-------------------------------------------------------------------------------------------*/
+/* 4. CONTENT */
+/*-------------------------------------------------------------------------------------------*/
+.entry-title > h3 {
+  display: inline-block;
+}
+.TESTING {
+    margin: 0 0rem 2rem 0rem;
+    padding: 1rem 2rem;
+    background-color: rgba(0,0,0, .05);
+    -webkit-border-radius: 3px 3px 3px 3px;
+    border-radius: 3px 3px 3px 3px;
+    border-bottom: 1px solid rgba(0,0,0,.1);
+    webkit-box-shadow: 0 0 6px 1px rgba(86,86,86,.3);
+    box-shadow: 0 0 6px 1px rgba(86,86,86,.3);
+}
+.entry {
+    margin: 0 0rem 2rem 0rem;
+    padding: 1rem 2rem;
+    background-color: rgba(0,0,0, .05);
+    -webkit-border-radius: 3px 3px 3px 3px;
+    border-radius: 3px 3px 3px 3px;
+    border-bottom: 1px solid rgba(0,0,0,.1);
+    webkit-box-shadow: 0 0 6px 1px rgba(86,86,86,.3);
+    box-shadow: 0 0 6px 1px rgba(86,86,86,.3);
+}
+#main > article > section {
+
+}
+#main > article > header {
+  display: none;
+}
+#content > p {
+
+}
+
+#content {
+margin: auto;
+width: 94%;
+  background-color: rgba(255,255,255, 1);
+  z-index: 2;
+  padding: 4rem 2rem;
+}
+#bottom-nav-container > h3 {
+  display: none;
+}
+#bottom-nav > li {
+  padding: 0em 1em;
+  float: left;
+  display: inline;
+}
+#bottom-nav {
+  display: inline-block;
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  background: rgba(0,57,104, .9);
+  text-align: center;
+}
+#bottom-nav-container{
+width: 100%;
+margin: auto;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    outline: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+    background-color: transparent;
+}
