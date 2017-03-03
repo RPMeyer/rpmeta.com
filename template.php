@@ -63,7 +63,7 @@ class Template
                         <a href="http://www.rpmeta.com/" title=""><img src="http://rpmeyer.org/RPMlogoSheared1.svg" alt=""/></a>
                         <span class="site-title"><a href="http://www.rpmeta.com/">RPMeta</a></span>
                     </div>
-                    
+
                     <section id="section-menu" class="menus">
                         <h3>Main Nav</h3>
                         <ul id="main-menu-list" class="nav">
@@ -75,24 +75,26 @@ class Template
                             <li id="menu-item-news" class="menu-item"><a href="http://rpmeyer.org/News/index.php">Subscribe</a></li>
                         </ul>
 
+                        <div id="media-buttons" class="media-images-svg">
+                          <ul id="socials">
+                            <li>
+                              <a href="https://www.facebook.com/rpmeta" class="facebook">
+                                <img src="http://rpmeta.com/res/FacebookF.svg" alt=""/></img>
+                              </a>
+                              <a href="https://twitter.com/arrpmeyer" class="twitter">
+                                <img src="http://rpmeta.com/res/TwitterBird.svg" alt=""/></img>
+                              </a>
+                            </li>
+                          </ul>
+                        </div>
+
                         <a href="#splashRPM" class="nav-close">
                             <span>Return to Content</span>
                         </a>
                         <!-- /#side-nav -->
                     </section>
 
-                    <div id="media-buttons" class="media-images-svg">
-                      <ul id="socials">
-                        <li>
-                          <a href="https://www.facebook.com/rpmeta" class="facebook">
-                            <img src="http://rpmeta.com/res/FacebookF.svg" alt=""/></img>
-                          </a>
-                          <a href="https://twitter.com/arrpmeyer" class="twitter">
-                            <img src="http://rpmeta.com/res/TwitterBird.svg" alt=""/></img>
-                          </a>
-                        </li>
-                      </ul>
-                    </div>
+
                     <!-- /.menus -->
                 </nav>
             </div>
