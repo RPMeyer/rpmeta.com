@@ -140,6 +140,7 @@ ul a:hover, a:active {
   display: inline-block;
   margin: 0;
   padding: .5em;
+  padding-right: 2em;
 }
 #socials > li {
   display: inline-flex;
@@ -163,7 +164,7 @@ ul a:hover, a:active {
 #nav-container {
   float: left;
   position: relative;
-  top: 15em;
+  margin-top: 20%;
   z-index: 99997;
   width: 100%;
   background: #f0f0f0;
@@ -189,6 +190,7 @@ ul a:hover, a:active {
 }
 #main-menu > a {
   margin: auto;
+  padding-right: 5em;
 }
 
 #main-menu > a > span {
