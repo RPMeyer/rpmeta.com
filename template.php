@@ -97,10 +97,6 @@ class Template
                 </nav>
             </div>
             <!--/#nav-container FORMATTED RPM-->
-
-            <div id="sidebar-container" class="sidebar">
-
-            </div>
             <!-- #content Starts -->
             <!-- Splashpage container Starts FORMATTED RPM-->
             <div class="splashpage-container-wrapper">
@@ -125,6 +121,10 @@ class Template
                 </div>
             </div>
         </div>
+    </div>
+
+    <div id="sidebar-container" class="sidebar">
+
     </div>
     <div class="media-buttons-test" id="testingtesttest">
         <a href="https://twitter.com/francklycrochet" class="twitter-follow-button" data-show-count="false">Follow @francklycrochet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
