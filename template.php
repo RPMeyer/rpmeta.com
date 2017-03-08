@@ -121,11 +121,11 @@ class Template
                 </div>
             </div>
         </div>
-    </div>
-    <div id="sidebar-container" class="sidebar">
-      <div>
-        <a></a>
-      </div>
+        <div id="sidebar-container" class="sidebar">
+          <div>
+            <a></a>
+          </div>
+        </div>
     </div>
     <div class="media-buttons-test" id="testingtesttest">
         <a href="https://twitter.com/francklycrochet" class="twitter-follow-button" data-show-count="false">Follow @francklycrochet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
