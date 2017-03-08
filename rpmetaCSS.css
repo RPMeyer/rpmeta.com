@@ -163,11 +163,8 @@ ul a:hover, a:active {
 
 #nav-container {
   float: left;
-  -webkit-transform: translate(-50%,-50%);
-  transform: translate(-50%,-50%);
-  position: absolute;
-  top: 50%;
-  left: 50%;
+  position: relative;
+  top: 15em;
   z-index: 99997;
   width: 100%;
   background: #f0f0f0;
