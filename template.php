@@ -107,7 +107,9 @@ class Template
             </div>
             <!--End Splashpage Wrapper -->
             <div id="sidebar-container" class="sidebar">
-
+              <div>
+                <a></a>
+              </div>
             </div>
             <div id="content" class="col-full">
                 <div id="main-sidebar-container">
