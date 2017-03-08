@@ -164,7 +164,7 @@ ul a:hover, a:active {
 #nav-container {
   float: left;
   position: relative;
-  margin-top: 20%;
+  top: 15em;
   z-index: 99997;
   width: 100%;
   background: #f0f0f0;
