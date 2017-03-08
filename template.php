@@ -98,6 +98,9 @@ class Template
             </div>
             <!--/#nav-container FORMATTED RPM-->
 
+            <div id="sidebar-container" class="sidebar">
+
+            </div>
             <!-- #content Starts -->
             <!-- Splashpage container Starts FORMATTED RPM-->
             <div class="splashpage-container-wrapper">
