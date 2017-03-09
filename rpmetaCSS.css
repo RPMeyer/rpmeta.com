@@ -255,7 +255,7 @@ ul a:hover, a:active {
 }
 
 #sidebar-container {
-  position: fixed;
+  position: absolute;
   display: inline-flex;
   top: 20rem;
   margin: 0 2.5%;
