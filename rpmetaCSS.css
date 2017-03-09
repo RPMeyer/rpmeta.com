@@ -14,17 +14,11 @@ body {
 }
 
 .affix {
-
+      top: 0px !important;
       position: fixed !important;
   }
 
-  .affix + #sidebar-container{
-        top: 10rem !important;
-        position: fixed !important;
-    }
-
 .affix + #nav-container {
-  top: 0px !important;
   padding-top: 70px;
   width: 100%;
 }
