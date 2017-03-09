@@ -14,7 +14,7 @@ body {
 }
 
 .affix {
-      top: 0px !important;
+
       position: fixed !important;
   }
 
@@ -24,6 +24,7 @@ body {
     }
 
 .affix + #nav-container {
+  top: 0px !important;
   padding-top: 70px;
   width: 100%;
 }
