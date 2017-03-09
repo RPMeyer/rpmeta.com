@@ -258,7 +258,7 @@ ul a:hover, a:active {
   position: fixed;
   display: inline-flex;
   top: 20rem;
-  margin-right: 2rem;
+  margin: 0 2.5%;
 }
 #sidebar-container.sidebar {
   font: 300 1em 'PT Sans', arial, sans-serif !important;
@@ -288,7 +288,7 @@ ul a:hover, a:active {
 }
 
 #content {
-  margin: 0 10%;
+  margin: 0 0 0 10%;
   background-color: rgba(255,255,255, 1);
   z-index: 2;
   padding: 4rem 2rem;
