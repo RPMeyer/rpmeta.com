@@ -258,8 +258,17 @@ ul a:hover, a:active {
 #main > article > header {
   display: none;
 }
-#content > p {
 
+#sidebar-container {
+  position: absolute;
+  width: 20%;
+  display: inline-flex;
+  top: 20rem;
+}
+
+#content-wrapper {
+  display: inline-flex;
+  width: 75%;
 }
 
 #content {
