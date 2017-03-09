@@ -53,10 +53,6 @@ ul a:hover, a:active {
 		-webkit-font-smoothing: antialiased;
 		z-index:-1;
 }
-.splashpage-container-wrapper {
-    position: relative;
-    padding-top: 15rem;
-}
 
 /*-------------------------------------------------------------------------------------------*/
 /* 2. Top Nav */
