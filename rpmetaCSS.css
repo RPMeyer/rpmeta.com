@@ -18,6 +18,11 @@ body {
       position: fixed !important;
   }
 
+  .affix + #sidebar-container{
+        top: 10rem !important;
+        position: fixed !important;
+    }
+
 .affix + #nav-container {
   padding-top: 70px;
   width: 100%;
