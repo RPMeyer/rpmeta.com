@@ -52,6 +52,12 @@ class Template
     </div>
 <!-- /#top FORMATTED RPM-->
     <div id="wrapper">
+      <div class="splashpage-container-wrapper">
+          <div class="splashpage-featured-image-conatiner">
+              <img src="http://rpmeyer.us.tempcloudsite.com/Yumekui.png" class="splashpage-featured"/>
+          </div>
+          <!--End Splashpage container FORMATTED RPM-->
+      </div>
       <!--#nav-container FORMATTED RPM-->
       <div id="nav-container" data-spy="affix" data-offset-top="197">
           <nav id="main-menu" class="col-full" role="navigation">
@@ -98,12 +104,7 @@ class Template
             <!--/#header-container-->
             <!-- #content Starts -->
             <!-- Splashpage container Starts FORMATTED RPM-->
-            <div class="splashpage-container-wrapper">
-                <div class="splashpage-featured-image-conatiner">
-                    <img src="http://rpmeyer.us.tempcloudsite.com/Yumekui.png" class="splashpage-featured"/>
-                </div>
-                <!--End Splashpage container FORMATTED RPM-->
-            </div>
+
             <!--End Splashpage Wrapper -->
             <div id="content" class="col-full">
                 <div id="main-sidebar-container">
