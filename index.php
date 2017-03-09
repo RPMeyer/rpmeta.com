@@ -89,6 +89,76 @@ $template->drawHeader();
 										</div>
 									</div>
 									<!--END new post entry .hentry-->
+									<!--Begin new post entry-->
+									<div class='post-3 TESTING' id='post-3'>
+										<h3 class='entry-title'>
+											<a title='TESTING POST-2' rel='bookmark' href='#'>Reviews Products and the Meta</a>
+										</h3>
+										<!--BEGIN .entry-content-->
+										<div class='entry-content'>
+											<div class='theExrp'>
+												<a href='http://'>
+													<img src="http://" class="attachment-post-thumbnail" alt="" />
+												</a>
+												<p id='title of post'>
+													Nintendo Switch Software Review
+												</p>
+											</div>
+											<div>
+												<a class='more-link' href='#'>read more...</a>
+											</div>
+											<!--END .entry-content-->
+											<hr style='clear:both; display:inline-block; margin: 1rem 0'/>
+										</div>
+									</div>
+									<!--END new post entry .hentry-->
+									<!--Begin new post entry-->
+									<div class='post-3 TESTING' id='post-3'>
+										<h3 class='entry-title'>
+											<a title='TESTING POST-2' rel='bookmark' href='#'>Reviews Products and the Meta</a>
+										</h3>
+										<!--BEGIN .entry-content-->
+										<div class='entry-content'>
+											<div class='theExrp'>
+												<a href='http://'>
+													<img src="http://" class="attachment-post-thumbnail" alt="" />
+												</a>
+												<p id='title of post'>
+													Nintendo Switch Software Review
+												</p>
+											</div>
+											<div>
+												<a class='more-link' href='#'>read more...</a>
+											</div>
+											<!--END .entry-content-->
+											<hr style='clear:both; display:inline-block; margin: 1rem 0'/>
+										</div>
+									</div>
+									<!--END new post entry .hentry-->
+									<!--Begin new post entry-->
+									<div class='post-3 TESTING' id='post-3'>
+										<h3 class='entry-title'>
+											<a title='TESTING POST-2' rel='bookmark' href='#'>Reviews Products and the Meta</a>
+										</h3>
+										<!--BEGIN .entry-content-->
+										<div class='entry-content'>
+											<div class='theExrp'>
+												<a href='http://'>
+													<img src="http://" class="attachment-post-thumbnail" alt="" />
+												</a>
+												<p id='title of post'>
+													Nintendo Switch Software Review
+												</p>
+											</div>
+											<div>
+												<a class='more-link' href='#'>read more...</a>
+											</div>
+											<!--END .entry-content-->
+											<hr style='clear:both; display:inline-block; margin: 1rem 0'/>
+										</div>
+									</div>
+									<!--END new post entry .hentry-->
+
 								</div>
 							</section>
 						</article>
