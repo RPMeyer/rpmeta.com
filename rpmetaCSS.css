@@ -258,6 +258,7 @@ ul a:hover, a:active {
   position: fixed;
   display: inline-flex;
   top: 20rem;
+  margin-right: 2rem;
 }
 #sidebar-container.sidebar {
   font: 300 1em 'PT Sans', arial, sans-serif !important;
