@@ -121,7 +121,7 @@ class Template
             </div>
         </div>
         <div id="sidebar-container" class="sidebar">
-          <div>
+          <div id="sidebar-content-container">
             <a>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi. Vestibulum blandit, enim at aliquet pharetra, lacus diam vulputate tortor, sed hendrerit diam purus eget urna. Cras porttitor eleifend leo, et faucibus neque venenatis ac. Nam suscipit sit amet tortor eu tristique. Aliquam ipsum purus, mollis semper orci sed, finibus sagittis erat. Nulla id tellus nibh. Maecenas lorem enim, pellentesque ac placerat ut, fringilla a libero. Curabitur pretium semper eros sed ultrices. Praesent in tempor tortor, at molestie tortor. Phasellus nulla massa, sollicitudin eu dignissim rhoncus, tempor vitae eros. Morbi venenatis sit amet sem non porta.</a>
           </div>
         </div>

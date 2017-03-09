@@ -264,8 +264,19 @@ ul a:hover, a:active {
   display: inline-flex;
   top: 20rem;
 }
-
 #sidebar-container.sidebar {
+  font: 300 1em 'PT Sans', arial, sans-serif !important;
+  margin: 0 0rem 2rem 0rem;
+  padding: 1rem 2rem;
+  background-color: rgba(0,0,0, .05);
+  -webkit-border-radius: 3px 3px 3px 3px;
+  border-radius: 3px 3px 3px 3px;
+  border-bottom: 1px solid rgba(0,0,0,.1);
+  webkit-box-shadow: 0 0 6px 1px rgba(86,86,86,.3);
+  box-shadow: 0 0 6px 1px rgba(86,86,86,.3);
+}
+
+#sidebar-content-container {
   margin: 0 0rem 2rem 0rem;
   padding: 1rem 2rem;
   background-color: rgba(0,0,0, .05);
