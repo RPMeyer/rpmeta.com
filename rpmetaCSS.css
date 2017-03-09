@@ -266,7 +266,6 @@ ul a:hover, a:active {
 }
 #sidebar-container.sidebar {
   font: 300 1em 'PT Sans', arial, sans-serif !important;
-  margin: 0 0rem 2rem 0rem;
   padding: 1rem 2rem;
   background-color: rgba(0,0,0, .05);
   -webkit-border-radius: 3px 3px 3px 3px;
@@ -277,7 +276,6 @@ ul a:hover, a:active {
 }
 
 #sidebar-content-container {
-  margin: 0 0rem 2rem 0rem;
   padding: 1rem 2rem;
   background-color: rgba(0,0,0, .05);
   -webkit-border-radius: 3px 3px 3px 3px;
