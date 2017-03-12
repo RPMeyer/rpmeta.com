@@ -52,12 +52,6 @@ class Template
     </div>
 <!-- /#top FORMATTED RPM-->
     <div id="wrapper">
-      <div class="splashpage-container-wrapper">
-          <div class="splashpage-featured-image-conatiner">
-              <img src="http://rpmeyer.us.tempcloudsite.com/Yumekui.png" class="splashpage-featured"/>
-          </div>
-          <!--End Splashpage container FORMATTED RPM-->
-      </div>
       <!--#nav-container FORMATTED RPM-->
       <div id="nav-container" data-spy="affix" data-offset-top="197">
           <nav id="main-menu" class="col-full" role="navigation">
@@ -104,7 +98,12 @@ class Template
             <!--/#header-container-->
             <!-- #content Starts -->
             <!-- Splashpage container Starts FORMATTED RPM-->
-
+            <div class="splashpage-container-wrapper">
+                <div class="splashpage-featured-image-conatiner">
+                    <img src="http://rpmeyer.us.tempcloudsite.com/Yumekui.png" class="splashpage-featured"/>
+                </div>
+                <!--End Splashpage container FORMATTED RPM-->
+            </div>
             <!--End Splashpage Wrapper -->
             <div id="content" class="col-full">
                 <div id="main-sidebar-container">
@@ -115,14 +114,13 @@ class Template
     }
     public function drawFooter()
     {
+      $this->drawMainClose();
         //html here
 ?>
-                   </section>
-                </div>
-            </div>
-        </div>
-        <div id="sidebar-container" class="sidebar" data-spy="affix" data-offset-top="197">
-          <div id="sidebar-content-container">
+
+
+        <div id="sidebar-container" class="sidebar">
+          <div id="sidebar-content">
             <a>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi. Vestibulum blandit, enim at aliquet pharetra, lacus diam vulputate tortor, sed hendrerit diam purus eget urna. Cras porttitor eleifend leo, et faucibus neque venenatis ac. Nam suscipit sit amet tortor eu tristique. Aliquam ipsum purus, mollis semper orci sed, finibus sagittis erat. Nulla id tellus nibh. Maecenas lorem enim, pellentesque ac placerat ut, fringilla a libero. Curabitur pretium semper eros sed ultrices. Praesent in tempor tortor, at molestie tortor. Phasellus nulla massa, sollicitudin eu dignissim rhoncus, tempor vitae eros. Morbi venenatis sit amet sem non porta.</a>
           </div>
         </div>
@@ -155,5 +153,14 @@ class Template
 
 <?php
         //no more html :(
+    }
+    public function drawMainClose()
+    {
+?>
+</section>
+</div>
+</div>
+</div>
+<?php
     }
 }
