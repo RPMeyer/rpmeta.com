@@ -12,6 +12,7 @@ class Template
 <link rel="stylesheet" href="rpmetaCSS.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
@@ -35,7 +36,6 @@ class Template
 </head>
 
 <body class="full-header">
-  <div id="fb-root"></div>
 <!-- #top FORMATTED RPM-->
     <div id="top">
         <!-- <div id="top-nav-container" class="col-full">
