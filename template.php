@@ -36,17 +36,6 @@ class Template
 <body class="full-header">
 <!-- #top FORMATTED RPM-->
     <div id="top">
-        <!-- <div id="top-nav-container" class="col-full">
-            <h3 class="top-menu">Secondary Nav</h3>
-            <ul id="top-nav" class="top-navigation">
-                <li id="menu-item-1" class="menu-item 1"><a target="_blank" href="http://resume.rpmeyer.org/ResumeRedux.pdf">Resume</a></li>
-                <li id="menu-item-2" class="menu-item 2"><a href="http://portfolio.rpmeyer.org/">Portfolio</a></li>
-                <li id="menu-item-3" class="menu-item 3"><a href="http://php.rpmeyer.org/">PHP</a></li>
-                <li id="menu-item-4" class="menu-item 4"><a href="http://js.rpmeyer.org/">Advanced JS</a></li>
-                <li id="menu-item-5" class="menu-item 5"><a href="http://rpmeyer.org/WDV341Homework.php">Advanced CSS</a></li>
-                <li id="menu-item-5" class="menu-item 6"><a href="http://rpmeyer.org/WDV351Homework.php">Website Applications</a></li>
-            </ul>
-        </div> -->
     </div>
 <!-- /#top FORMATTED RPM-->
     <div id="wrapper">
@@ -115,8 +104,6 @@ class Template
       $this->drawMainClose();
         //html here
 ?>
-
-
         <div id="sidebar-container" class="sidebar">
           <div id="sidebar-content">
             <a>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi. Vestibulum blandit, enim at aliquet pharetra, lacus diam vulputate tortor, sed hendrerit diam purus eget urna. Cras porttitor eleifend leo, et faucibus neque venenatis ac. Nam suscipit sit amet tortor eu tristique. Aliquam ipsum purus, mollis semper orci sed, finibus sagittis erat. Nulla id tellus nibh. Maecenas lorem enim, pellentesque ac placerat ut, fringilla a libero. Curabitur pretium semper eros sed ultrices. Praesent in tempor tortor, at molestie tortor. Phasellus nulla massa, sollicitudin eu dignissim rhoncus, tempor vitae eros. Morbi venenatis sit amet sem non porta.</a>
@@ -132,19 +119,6 @@ class Template
       <div class="g-follow" data-href="https://plus.google.com/u/0/118205981055474454913" data-rel="{relationshipType}"></div>
       <div class="g-plusone" data-annotation="inline" data-width="300"></div>
     </div>
-    <!-- <div class="bottom-bar" id="bottomBar">
-        <div id="bottom-nav-container" class="col-full">
-            <h3 class="bottom-menu">Tertiary Nav</h3>
-            <ul id="bottom-nav" class="bottom-navigation">
-                <li id="bottom-item-1" class="bottom-item 1"><a href="http://resume.rpmeyer.org/CopyofResumePDFpdf.pdf">Resume</a></li>
-                <li id="bottom-item-2" class="bottom-item 2"><a target="_blank" href="http://portfolio.rpmeyer.org/">Portfolio</a></li>
-                <li id="bottom-item-3" class="bottom-item 3"><a target="_blank" href="http://php.rpmeyer.org/">PHP</a></li>
-                <li id="bottom-item-4" class="bottom-item 4"><a target="_blank" href="http://js.rpmeyer.org/">Advanced JS</a></li>
-            </ul>
-        </div>
-    </div> -->
-
-
 </body>
 
 </html>
