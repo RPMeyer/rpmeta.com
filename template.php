@@ -83,12 +83,10 @@ class Template
 
 <?php
         //starting php tag to output more template
-        $this->drawMainOpen();
     }
     public function drawFooter()
     {
-      $this->drawMainClose();
-      $this->drawSidebar();
+
         //html here
 ?>
 

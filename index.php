@@ -164,3 +164,7 @@ $template->drawHeader();
 						</article>
 <?php
 $template->drawFooter();
+$template->drawMainOpen();
+
+$template->drawMainClose();
+$template->drawSidebar();
