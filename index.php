@@ -163,8 +163,8 @@ $template->drawHeader();
 							</section>
 						</article>
 <?php
-$template->drawFooter();
 $template->drawMainOpen();
 
 $template->drawMainClose();
 $template->drawSidebar();
+$template->drawFooter();
