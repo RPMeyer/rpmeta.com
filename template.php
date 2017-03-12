@@ -26,10 +26,8 @@ class Template
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-
   ga('create', 'UA-84156006-1', 'auto');
   ga('send', 'pageview');
-
 </script>
 
 <title>RPMeyer HUB</title>
@@ -114,8 +112,10 @@ class Template
     }
     public function drawFooter()
     {
+      $this->drawMainClose();
         //html here
 ?>
+
 
         <div id="sidebar-container" class="sidebar">
           <div id="sidebar-content">
@@ -156,6 +156,7 @@ class Template
     {
 ?>
 </section>
+</div>
 </div>
 </div>
 <?php
