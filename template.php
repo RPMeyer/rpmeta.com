@@ -4,6 +4,7 @@ class Template
     public function drawHeader()
     {
         //ending php tag so we can use html
+        $this->drawMainOpen();
 ?>
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
 <html xmlns="http://www.w3.org/1999/xhtml">
@@ -80,22 +81,7 @@ class Template
           </nav>
       </div>
       <!--/#nav-container FORMATTED RPM-->
-        <div id="content-wrapper">
-            <!--#header-container-->
-            <!--/#header-container-->
-            <!-- #content Starts -->
-            <!-- Splashpage container Starts FORMATTED RPM-->
-            <div class="splashpage-container-wrapper">
-                <div class="splashpage-featured-image-conatiner">
-                    <img src="http://rpmeyer.us.tempcloudsite.com/Yumekui.png" class="splashpage-featured"/>
-                </div>
-                <!--End Splashpage container FORMATTED RPM-->
-            </div>
-            <!--End Splashpage Wrapper -->
-            <div id="content" class="col-full">
-                <div id="main-sidebar-container">
-                    <!-- #main Starts -->
-                    <section id="main">
+
 <?php
         //starting php tag to output more template
     }
@@ -138,7 +124,22 @@ class Template
     public function drawMainOpen()
     {
 ?>
-
+<div id="content-wrapper">
+    <!--#header-container-->
+    <!--/#header-container-->
+    <!-- #content Starts -->
+    <!-- Splashpage container Starts FORMATTED RPM-->
+    <div class="splashpage-container-wrapper">
+        <div class="splashpage-featured-image-conatiner">
+            <img src="http://rpmeyer.us.tempcloudsite.com/Yumekui.png" class="splashpage-featured"/>
+        </div>
+        <!--End Splashpage container FORMATTED RPM-->
+    </div>
+    <!--End Splashpage Wrapper -->
+    <div id="content" class="col-full">
+        <div id="main-sidebar-container">
+            <!-- #main Starts -->
+            <section id="main">
 <?php
     }
 }
