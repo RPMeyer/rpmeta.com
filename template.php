@@ -161,7 +161,6 @@ class Template
 </div>
 </div>
 </div>
-</div>
 <?php
     }
 }
