@@ -5,6 +5,7 @@ require_once($_SERVER['DOCUMENT_ROOT'] . '/template.php');
 $template = new Template();
 
 $template->drawHeader();
+$template->drawMainOpen();
 ?>
 <article class="post_entry_test">
 							<header>
@@ -163,8 +164,6 @@ $template->drawHeader();
 							</section>
 						</article>
 <?php
-$template->drawMainOpen();
-
 $template->drawMainClose();
 $template->drawSidebar();
 $template->drawFooter();
