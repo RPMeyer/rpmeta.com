@@ -160,6 +160,7 @@ class Template
 </section>
 </div>
 </div>
+</div>
 <?php
     }
 }
