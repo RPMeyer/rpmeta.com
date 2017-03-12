@@ -12,7 +12,6 @@ class Template
 <link rel="stylesheet" href="rpmetaCSS.css">
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js"></script>
 <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
-<div id="fb-root"></div>
 <script>(function(d, s, id) {
   var js, fjs = d.getElementsByTagName(s)[0];
   if (d.getElementById(id)) return;
@@ -36,6 +35,7 @@ class Template
 </head>
 
 <body class="full-header">
+  <div id="fb-root"></div>
 <!-- #top FORMATTED RPM-->
     <div id="top">
         <!-- <div id="top-nav-container" class="col-full">
@@ -114,11 +114,8 @@ class Template
     }
     public function drawFooter()
     {
-      $this->drawMainClose();
         //html here
 ?>
-
-
         <div id="sidebar-container" class="sidebar">
           <div id="sidebar-content">
             <a>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi. Vestibulum blandit, enim at aliquet pharetra, lacus diam vulputate tortor, sed hendrerit diam purus eget urna. Cras porttitor eleifend leo, et faucibus neque venenatis ac. Nam suscipit sit amet tortor eu tristique. Aliquam ipsum purus, mollis semper orci sed, finibus sagittis erat. Nulla id tellus nibh. Maecenas lorem enim, pellentesque ac placerat ut, fringilla a libero. Curabitur pretium semper eros sed ultrices. Praesent in tempor tortor, at molestie tortor. Phasellus nulla massa, sollicitudin eu dignissim rhoncus, tempor vitae eros. Morbi venenatis sit amet sem non porta.</a>
