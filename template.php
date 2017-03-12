@@ -135,4 +135,10 @@ class Template
 </div>
 <?php
     }
+    public function drawMainOpen()
+    {
+?>
+
+<?php
+    }
 }
