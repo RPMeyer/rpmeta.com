@@ -18,7 +18,10 @@ body {
       position: fixed !important;
   }
 
-
+.affix-sidebar {
+        top: 0px !important;
+        position: fixed !important;
+    }
 
 a:link, a:visited {
 
