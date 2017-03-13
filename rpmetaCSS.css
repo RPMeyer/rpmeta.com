@@ -260,8 +260,9 @@ ul a:hover, a:active {
   margin: 0 2.5%;
 }
 #sidebar-container.sidebar {
+  height: auto;
   font: 300 1em 'PT Sans', arial, sans-serif !important;
-  padding: 1rem 2rem;
+  padding: 1rem 1.5rem;
   background-color: rgb(255, 255, 255);
   -webkit-border-radius: 3px 3px 3px 3px;
   border-radius: 3px 3px 3px 3px;
