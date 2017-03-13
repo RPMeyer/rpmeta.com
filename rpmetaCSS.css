@@ -19,7 +19,7 @@ body {
     }
 
 #sidebar-container.affix {
-  top: 450px;
+  top: 5em !important;
 }
 
 a:link, a:visited {
