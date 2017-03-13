@@ -261,6 +261,7 @@ ul a:hover, a:active {
 }
 #sidebar-container.sidebar {
   height: auto;
+  margin-bottom: 1em;
   font: 300 1em 'PT Sans', arial, sans-serif !important;
   padding: 1rem 1.5rem;
   background-color: rgb(255, 255, 255);
