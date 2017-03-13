@@ -16,12 +16,11 @@ body {
 .affix {
       top: 0px !important;
       position: fixed !important;
-  }
-
-.affix-sidebar {
-        top: 0px !important;
-        position: fixed !important;
     }
+
+#sidebar.affix {
+  top: 450px;
+}
 
 a:link, a:visited {
 
