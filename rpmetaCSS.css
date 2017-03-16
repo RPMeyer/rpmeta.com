@@ -13,8 +13,10 @@ body {
 }
 
 #header-image-container {
-  display: inline-flex;
-  height: inherit;
+  display: inline-block;
+  max-width: 100%;
+  margin: 0 20%;
+  float: right;
 }
 #header-image-container > img {
   max-width: 100%;
@@ -163,7 +165,7 @@ ul a:hover, a:active {
 #nav-container {
   float: left;
   position: relative;
-  top: 15em;
+  /*top: 15em;*/
   z-index: 99997;
   width: 100%;
   background: #f0f0f0;
@@ -290,7 +292,7 @@ ul a:hover, a:active {
 #content-wrapper {
   display: inline-block;
   width: 75%;
-  padding-top: 15rem;
+  /*padding-top: 15rem;*/
 }
 
 #content {
