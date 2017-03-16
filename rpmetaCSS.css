@@ -9,7 +9,8 @@ body {
   z-index:0;
 }
 #splashRPM {
-  margin-top: -16em !important;
+  display: none;
+  /*margin-top: -16em !important;*/
 }
 
 #header-image-container {
