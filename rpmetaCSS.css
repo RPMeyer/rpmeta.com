@@ -263,7 +263,7 @@ ul a:hover, a:active {
 #sidebar-container {
   position: absolute;
   display: inline-block;
-  top: 20rem;
+  /*top: 20rem;*/
   margin: 0 2.5%;
 }
 #sidebar-container.sidebar {
