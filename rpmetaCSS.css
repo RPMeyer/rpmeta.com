@@ -43,10 +43,7 @@ ul a:hover, a:active {
 }
 
 .splashpage-featured-image-conatiner img {
-    bottom: 0px !important;
 		position: fixed;
-		top: 75px;
-    max-width: 100%;
 		background-color: transparent !important;
 		vertical-align: bottom;
 		-webkit-font-smoothing: antialiased;
@@ -327,5 +324,4 @@ html, body {
     outline: 0;
     font-size: 100%;
     vertical-align: baseline;
-    background-color: #3a3a3a;
 }
