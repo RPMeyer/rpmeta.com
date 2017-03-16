@@ -40,7 +40,7 @@ class Template
 <!-- /#top FORMATTED RPM-->
     <div id="wrapper">
       <div id="header-image-container">
-        <img src="http://rpmeta.com/res/RPMetaBackground.svg" class="header-image"/>
+        <img src="http://rpmeta.com/res/RPMetaHeader.svg" class="header-image"/>
       </div>
       <div class="splashpage-container-wrapper">
           <div class="splashpage-featured-image-conatiner">
