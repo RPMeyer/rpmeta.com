@@ -39,6 +39,9 @@ class Template
     </div>
 <!-- /#top FORMATTED RPM-->
     <div id="wrapper">
+      <div id="header-image-container">
+        <img src="http://rpmeta.com/res/RPMetaBackground.svg" class="header-image"/>
+      </div>
       <div class="splashpage-container-wrapper">
           <div class="splashpage-featured-image-conatiner">
               <img src="http://rpmeta.com/res/RPMetaBackground.svg" class="splashpage-featured"/>
