@@ -12,6 +12,12 @@ body {
   margin-top: -16em !important;
 }
 
+#header-image-container {
+  position: absolute;
+  margin: auto;
+  top: 0 auto;
+}
+
 .affix {
       top: 0px !important;
       position: fixed !important;
