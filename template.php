@@ -41,7 +41,7 @@ class Template
     <div id="wrapper">
       <div class="splashpage-container-wrapper">
           <div class="splashpage-featured-image-conatiner">
-              <img src="http://rpmeyer.us.tempcloudsite.com/Yumekui.png" class="splashpage-featured"/>
+              <img src="http://rpmeta.com/res/RPMetaBackground.svg" class="splashpage-featured"/>
           </div>
           <!--End Splashpage container FORMATTED RPM-->
       </div>
