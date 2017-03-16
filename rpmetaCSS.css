@@ -29,7 +29,7 @@ body {
     }
 
 #sidebar-container.affix {
-  top: 5em !important;
+  top: 4em !important;
 }
 
 a:link, a:visited {
