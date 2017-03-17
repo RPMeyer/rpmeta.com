@@ -151,7 +151,9 @@ ul a:hover, a:active {
 #socials > li {
   display: inline-flex;
 }
-
+.TESTING > div > hr {
+  display: none;
+}
 #socials > li > a > img {
   height: 35px;
 }
