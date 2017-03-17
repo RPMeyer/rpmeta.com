@@ -17,7 +17,6 @@ $template->drawMainOpen();
 										<img id="splashRPM" class="splash-logo" src="http://rpmeyer.org/RPMeyerPNG2.png"/>
 									</a>
 								</p>
-								<hr/>
 								<div class="content-container">
 									<!--Begin new post entry-->
 									<div class='post-1 TESTING' id='post-1'>
