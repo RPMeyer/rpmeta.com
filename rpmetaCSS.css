@@ -59,6 +59,7 @@ ul a:hover, a:active {
 		vertical-align: bottom;
 		-webkit-font-smoothing: antialiased;
 		z-index:-1;
+    top: -1px;
 }
 
 /*-------------------------------------------------------------------------------------------*/
