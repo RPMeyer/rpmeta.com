@@ -22,8 +22,6 @@ body {
 }
 #header-image-container > img {
   max-width: 100%;
-  background-color: darkslategrey;
-  opacity: 60%;
 }
 
 .affix {
