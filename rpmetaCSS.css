@@ -200,7 +200,9 @@ ul a:hover, a:active {
 
 #main-menu > a > span {
   font: 300 1em 'PT Sans', arial, sans-serif;
+  color: #f3f3f3;
 }
+
 #main-menu > #section-menu {
   position: relative;
   width: 100%;
