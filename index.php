@@ -34,11 +34,11 @@ $template->drawMainOpen();
 													Nintendo Switch Unboxing
 												</p>
 											</div>
+											<hr/>
 											<div>
 												<a class='more-link' href='#'>read more...</a>
 											</div>
 											<!--END .entry-content-->
-											<hr/>
 										</div>
 									</div>
 									<!--END new post entry .hentry-->
@@ -58,11 +58,11 @@ $template->drawMainOpen();
 													Nintendo Switch Hardware Review
 												</p>
 											</div>
+											<hr/>
 											<div>
 												<a class='more-link' href='#'>read more...</a>
 											</div>
 											<!--END .entry-content-->
-											<hr/>
 										</div>
 									</div>
 									<!--END new post entry .hentry-->
@@ -82,11 +82,11 @@ $template->drawMainOpen();
 													Nintendo Switch Software Review
 												</p>
 											</div>
+											<hr/>
 											<div>
 												<a class='more-link' href='#'>read more...</a>
 											</div>
 											<!--END .entry-content-->
-											<hr/>
 										</div>
 									</div>
 									<!--END new post entry .hentry-->
@@ -105,11 +105,11 @@ $template->drawMainOpen();
 													Nintendo Switch Software Review
 												</p>
 											</div>
+											<hr/>
 											<div>
 												<a class='more-link' href='#'>read more...</a>
 											</div>
 											<!--END .entry-content-->
-											<hr/>
 										</div>
 									</div>
 									<!--END new post entry .hentry-->
@@ -128,11 +128,11 @@ $template->drawMainOpen();
 													Nintendo Switch Software Review
 												</p>
 											</div>
+											<hr/>
 											<div>
 												<a class='more-link' href='#'>read more...</a>
 											</div>
 											<!--END .entry-content-->
-											<hr/>
 										</div>
 									</div>
 									<!--END new post entry .hentry-->
@@ -151,11 +151,11 @@ $template->drawMainOpen();
 													Nintendo Switch Software Review
 												</p>
 											</div>
+											<hr/>
 											<div>
 												<a class='more-link' href='#'>read more...</a>
 											</div>
 											<!--END .entry-content-->
-											<hr/>
 										</div>
 									</div>
 									<!--END new post entry .hentry-->
