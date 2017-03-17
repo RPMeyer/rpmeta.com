@@ -28,6 +28,7 @@ body {
 
 #header-image-container {
   background-color: darkslategrey;
+  opacity: 50%;
   display: inline-block;
   max-width: 100%;
   margin: 0 30%;
