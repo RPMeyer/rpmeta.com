@@ -256,7 +256,7 @@ ul a:hover, a:active {
 .entry {
     /*margin: 0 0rem 2rem 0rem;*/
     padding: 1rem 2rem;
-    background-color: rgba(255, 255, 255, 1);
+    background-color: rgba(0,0,0, .05);
     -webkit-border-radius: 3px 3px 3px 3px;
     border-radius: 3px 3px 3px 3px;
     border-bottom: 1px solid rgba(0,0,0,.1);
