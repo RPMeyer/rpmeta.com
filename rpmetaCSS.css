@@ -129,7 +129,8 @@ ul a:hover, a:active {
 #logo {
   /*margin-left: 5%;*/
   max-width: 100%;
-  display: inline-flex;
+  display: none;
+
 }
 
 #section-menu {
