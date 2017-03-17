@@ -18,8 +18,7 @@ body {
   display: inline-block;
   max-width: 100%;
   padding: 0 30%;
-  background-color: darkslategray;
-  opacity: .65;
+  background: rgba(25, 25, 25, .5);
   float: right;
 }
 #header-image-container > img {
@@ -27,7 +26,7 @@ body {
 }
 
 #header-image-container > img:hover {
-  opacity: 1;
+  background: rgba(25, 25, 25, 1);
 }
 
 .affix {
