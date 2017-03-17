@@ -17,11 +17,17 @@ body {
 #header-image-container {
   display: inline-block;
   max-width: 100%;
-  margin: 0 30%;
+  padding: 0 30%;
+  background-color: darkslategray;
+  opacity: .65;
   float: right;
 }
 #header-image-container > img {
   max-width: 100%;
+}
+
+#header-image-container > img:hover {
+  opacity: 1;
 }
 
 .affix {
