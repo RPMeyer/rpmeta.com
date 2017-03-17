@@ -13,7 +13,9 @@ body {
   display: none;
   /*margin-top: -16em !important;*/
 }
+
 #header-image-container > img {
+  background-color: darkslategrey;
   max-width: 100%;
   opacity: 0.5;
   filter: alpha(opacity=50); /* For IE8 and earlier */
