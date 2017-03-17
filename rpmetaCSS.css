@@ -267,6 +267,7 @@ ul a:hover, a:active {
 
 #title-of-post {
   color: rgba(255, 255, 255, 0.7);
+  font-size: .75rem;
 }
 
 #main > article > section {
