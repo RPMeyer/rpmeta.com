@@ -38,7 +38,7 @@ $template->drawMainOpen();
 												<a class='more-link' href='#'>read more...</a>
 											</div>
 											<!--END .entry-content-->
-											<hr style='clear:both; display:inline-block; margin: 1rem 0'/>
+											<hr/>
 										</div>
 									</div>
 									<!--END new post entry .hentry-->
@@ -62,7 +62,7 @@ $template->drawMainOpen();
 												<a class='more-link' href='#'>read more...</a>
 											</div>
 											<!--END .entry-content-->
-											<hr style='clear:both; display:inline-block; margin: 1rem 0'/>
+											<hr/>
 										</div>
 									</div>
 									<!--END new post entry .hentry-->
@@ -86,7 +86,7 @@ $template->drawMainOpen();
 												<a class='more-link' href='#'>read more...</a>
 											</div>
 											<!--END .entry-content-->
-											<hr style='clear:both; display:inline-block; margin: 1rem 0'/>
+											<hr/>
 										</div>
 									</div>
 									<!--END new post entry .hentry-->
@@ -109,7 +109,7 @@ $template->drawMainOpen();
 												<a class='more-link' href='#'>read more...</a>
 											</div>
 											<!--END .entry-content-->
-											<hr style='clear:both; display:inline-block; margin: 1rem 0'/>
+											<hr/>
 										</div>
 									</div>
 									<!--END new post entry .hentry-->
@@ -132,7 +132,7 @@ $template->drawMainOpen();
 												<a class='more-link' href='#'>read more...</a>
 											</div>
 											<!--END .entry-content-->
-											<hr style='clear:both; display:inline-block; margin: 1rem 0'/>
+											<hr/>
 										</div>
 									</div>
 									<!--END new post entry .hentry-->
@@ -155,7 +155,7 @@ $template->drawMainOpen();
 												<a class='more-link' href='#'>read more...</a>
 											</div>
 											<!--END .entry-content-->
-											<hr style='clear:both; display:inline-block; margin: 1rem 0'/>
+											<hr/>
 										</div>
 									</div>
 									<!--END new post entry .hentry-->
