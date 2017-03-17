@@ -30,7 +30,7 @@ $template->drawMainOpen();
 													<img src="http://" class="attachment-post-thumbnail" alt="" />
 												</a>
 												<p id='title of post'>
-													Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing 
+													Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing
 												</p>
 											</div>
 											<hr/>
@@ -53,7 +53,7 @@ $template->drawMainOpen();
 												<a href='http://'>
 													<img src="http://" class="attachment-post-thumbnail" alt="" />
 												</a>
-												<p id='title of post'>
+												<p id='title-of-post'>
 													Nintendo Switch Hardware Review
 												</p>
 											</div>
