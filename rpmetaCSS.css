@@ -171,6 +171,7 @@ ul a:hover, a:active {
 #socials {
     list-style-type: none;
     display: inline-block;
+    margin: auto;
     padding-right: 2em;
 }
 
