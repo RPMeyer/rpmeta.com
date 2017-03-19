@@ -167,7 +167,7 @@ ul a:hover, a:active {
     display: inline-flex;
 }
 
-#facebookSVG:hover path {
+#facebookSVG:hover {
     fill: red;
 }
 
