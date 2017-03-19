@@ -259,7 +259,8 @@ ul a:hover, a:active {
 #main-menu-list {
     list-style-type: none;
     display: inline-block;
-    margin: 0;
+    margin: auto;
+    /*margin: auto;*/
     float: left;
     padding-left: 1em;
 }
