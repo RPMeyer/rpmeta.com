@@ -22,10 +22,13 @@ body {
     float: right;
 }
 
-#header-image-container>img {
+/*#header-image-container>img {
     max-width: 100%;
-}
+}*/
 
+.header-image {
+  max-width: 100%;
+}
 .affix {
     top: 0px !important;
     position: fixed !important;
