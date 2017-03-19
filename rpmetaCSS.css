@@ -148,12 +148,19 @@ ul a:hover, a:active {
   padding: .5em;
   padding-right: 2em;
 }
+
 #socials > li {
   display: inline-flex;
 }
+
+#facebookSVG:hover path {
+    fill: red;
+}
+
 #content-container > div > hr {
   display: none;
 }
+
 #socials > li > a > img {
   height: 35px;
 }
