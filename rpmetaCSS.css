@@ -165,13 +165,12 @@ ul a:hover, a:active {
 
 #media-buttons {
     position: relative;
+    margin: auto;
 }
 
 #socials {
     list-style-type: none;
     display: inline-block;
-    margin: auto;
-    padding: .5em;
     padding-right: 2em;
 }
 
