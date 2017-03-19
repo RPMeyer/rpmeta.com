@@ -177,6 +177,7 @@ ul a:hover, a:active {
 
 .social-media {
     height: 35px;
+    width: auto;
 }
 
 #socials>li>a {
