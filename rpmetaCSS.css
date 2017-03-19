@@ -22,13 +22,16 @@ body {
     float: right;
 }
 
+
 /*#header-image-container>img {
     max-width: 100%;
 }*/
 
 .header-image {
-  max-width: 100%;
+    max-width: 100%;
+    height: auto;
 }
+
 .affix {
     top: 0px !important;
     position: fixed !important;
@@ -69,8 +72,6 @@ ul a:hover, a:active {
     height: 35px;
     width: auto;
 }
-
-
 
 
 /*-------------------------------------------------------------------------------------------*/
