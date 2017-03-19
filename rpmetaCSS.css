@@ -53,7 +53,7 @@ ul a:hover, a:active {
     height: auto;
 }
 
-.splashpage-featured-image-conatiner img {
+.splashpage-featured img {
     position: fixed;
     background-color: transparent !important;
     vertical-align: bottom;
@@ -61,6 +61,13 @@ ul a:hover, a:active {
     z-index: -1;
     top: -1px;
 }
+
+.social-media {
+    height: 35px;
+    width: auto;
+}
+
+
 
 
 /*-------------------------------------------------------------------------------------------*/
@@ -173,11 +180,6 @@ ul a:hover, a:active {
 
 #content-container>div>hr {
     display: none;
-}
-
-.social-media {
-    height: 35px;
-    width: auto;
 }
 
 #socials>li>a {
