@@ -30,34 +30,65 @@ class Template
   ga('send', 'pageview');
 </script>
 <script>
-	jQuery('img.svg').each(function() {
-		var $img = jQuery(this);
-		var imgID = $img.attr('id');
-		var imgClass = $img.attr('class');
-		var imgURL = $img.attr('src');
+initSVG: function(prop){
 
-		jQuery.get(imgURL, function(data) {
-			// Get the SVG tag, ignore the rest
-			var $svg = jQuery(data).find('svg');
+        // init global cache object and assign local var
+        var cache = this.svgCache = this.svgCache || {};
 
-			// Add replaced image's ID to the new SVG
-			if (typeof imgID !== 'undefined') {
-				$svg = $svg.attr('id', imgID);
-			}
-			// Add replaced image's classes to the new SVG
-			if (typeof imgClass !== 'undefined') {
-				$svg = $svg.attr('class', imgClass + ' replaced-svg');
-			}
+        // Set total and counter
+        var $svgs = jQuery('img.svg');
+        var total = $svgs.length;
+        var count = 0;
 
-			// Remove any invalid XML tags as per http://validator.w3.org
-			$svg = $svg.removeAttr('xmlns:a');
+        // If no SVGs on page, fire callback event
+        if ( total === count ) jQuery(document).trigger('svgsLoaded', [count]);
 
-			// Replace image with new SVG
-			$img.replaceWith($svg);
+        // define function to replace single svg
+        var replaceSVG = function( data ){
 
-		}, 'xml');
+            // get img and attributes
+            var $img = jQuery(this),
+                attributes = $img.prop("attributes");
 
-	});
+			// Increment counter
+			count++;
+
+            // Clone the SVG tag, ignore the rest
+            var $svg = jQuery(data).find('svg').clone();
+
+            // Remove any invalid XML tags as per http://validator.w3.org
+            $svg = $svg.removeAttr('xmlns:a');
+
+            // Loop through IMG attributes and add them to SVG
+            jQuery.each(attributes, function() {
+                $svg.attr(this.name, this.value);
+            });
+
+            // Replace image with new SVG
+            $img.replaceWith($svg);
+
+			// If this is the last svg, fire callback event
+			if ( total === count ) jQuery(document).trigger('svgsLoaded', [count]);
+
+        }
+
+        // loop all svgs
+        $svgs.each(function(){
+
+            // get URL from this SVG
+	        var imgURL = jQuery(this).attr('src');
+
+            // if not cached, make new AJAX request
+            if ( ! cache[imgURL] ){
+                cache[imgURL] = jQuery.get(imgURL).promise();
+            }
+
+            // when we have SVG data, replace img with data
+            cache[imgURL].done( replaceSVG.bind(this) );
+
+		});
+
+	};
 </script>
 
 <title>RPMeyer HUB</title>
