@@ -179,7 +179,11 @@ ul a:hover, a:active {
 }
 
 #facebookSVG:hover {
-    fill: red;
+    fill: #bd8100;
+}
+
+#twitterSVG:hover {
+  fill: #bd8100;
 }
 
 #content-container>div>hr {
