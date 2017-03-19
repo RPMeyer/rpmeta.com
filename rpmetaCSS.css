@@ -53,7 +53,7 @@ ul a:hover, a:active {
     height: auto;
 }
 
-.splashpage-featured img {
+.splashpage-featured {
     position: fixed;
     background-color: transparent !important;
     vertical-align: bottom;
