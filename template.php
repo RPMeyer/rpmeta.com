@@ -124,7 +124,7 @@ $(document).ready(function() {
 ?>
 
     </div>
-    <div class="media-buttons-test" id="testingtesttest">
+    <!-- <div class="media-buttons-test" id="testingtesttest">
         <a href="https://twitter.com/francklycrochet" class="twitter-follow-button" data-show-count="false">Follow @francklycrochet</a><script async src="//platform.twitter.com/widgets.js" charset="utf-8"></script>
         <a data-pin-do="buttonFollow" href="https://www.pinterest.com/francklycrochet/">FrancklyKayCrochet</a> <script async defer src="//assets.pinterest.com/js/pinit.js"></script>
         <div class="fb-like" style="display: inline-flex" data-href="https://www.facebook.com/francklykaycrochet/" data-layout="button_count" data-action="like" data-size="small" data-show-faces="false" data-share="true"></div>
@@ -132,7 +132,7 @@ $(document).ready(function() {
     <script src="https://apis.google.com/js/platform.js" async defer></script>
       <div class="g-follow" data-href="https://plus.google.com/u/0/118205981055474454913" data-rel="{relationshipType}"></div>
       <div class="g-plusone" data-annotation="inline" data-width="300"></div>
-    </div>
+    </div> -->
 </body>
 
 </html>
