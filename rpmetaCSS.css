@@ -52,7 +52,7 @@ a:link, a:visited {
 
 ul a:hover, a:active {
     color: #bd8100;
-    background-color: #334a63;
+    background-color: #364c63;
 }
 
 .entry p a img {
@@ -291,7 +291,7 @@ ul a:hover, a:active {
     font: 300 1em 'PT Sans', arial, sans-serif !important;
     margin: 0 0rem 2rem 0rem;
     padding: 1rem 2rem;
-    background-color: rgb(60, 56, 84);
+    background-color: rgb(89, 90, 93);
     -webkit-border-radius: 3px 3px 3px 3px;
     border-radius: 3px 3px 3px 3px;
     border-bottom: 1px solid rgba(0, 0, 0, .1);
