@@ -334,7 +334,7 @@ ul a:active {
 #sidebar-container.sidebar {
     height: auto;
     font: 300 1em 'PT Sans', arial, sans-serif !important;
-    padding: 1rem 1.5rem;
+    padding: 0 1rem 1rem 1rem;
     background-color: rgb(255, 255, 255);
     -webkit-border-radius: 3px 3px 3px 3px;
     border-radius: 3px 3px 3px 3px;
@@ -345,7 +345,7 @@ ul a:active {
 
 #sidebar-content-container {
     padding: 1rem 1rem;
-    margin-bottom: 1em;
+    margin-top: 1em;
     background-color: rgba(0, 0, 0, .05);
     -webkit-border-radius: 3px 3px 3px 3px;
     border-radius: 3px 3px 3px 3px;
