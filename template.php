@@ -168,8 +168,24 @@ $(document).ready(function() {
 ?>
 <div id="sidebar-container" class="sidebar" data-spy="affix" data-offset-top="197">
   <article id="sidebar-content-container">
+    <h3 class='entry-title'>
+      <a title='TESTING POST-2' rel='bookmark' href='#'>Reviews Products and the Meta</a>
+    </h3>
+    <div class='theExrp'>
+      <a href='http://'>
+        <img src="http://" class="attachment-post-thumbnail" alt="" />
+      </a>
+      <p id='title of post'>
+        Nintendo Switch Software Review
+      </p>
+    </div>
+    <hr/>
     <a>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi. Vestibulum blandit, enim at aliquet pharetra,
        lacus diam vulputate tortor, sed hendrerit diam purus eget urna. Cras porttitor eleifend leo, et faucibus neque venenatis ac. </a>
+    <div>
+      <a class='more-link' href='#'>read more...</a>
+    </div>
+
   </article>
   <article id="sidebar-content-container">
     <a>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi. Vestibulum blandit, enim at aliquet pharetra,
