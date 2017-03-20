@@ -373,6 +373,13 @@ ul a:active {
     /*padding-top: 15rem;*/
 }
 
+#product-splash {
+  height: 7em;
+  position: relative;
+  width: 100%;
+  background-color: #198ca9;
+}
+
 #content {
     margin: 0 0 2rem 10%;
     background-color: rgba(42, 72, 104, 1);

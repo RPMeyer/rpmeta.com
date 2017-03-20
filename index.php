@@ -40,6 +40,8 @@ $template->drawMainOpen();
 											<!--END .entry-content-->
 										</div>
 									</div>
+								</div>
+							</section>
 									<!--END new post entry .hentry-->
 
 									<!--Begin new post entry-->
@@ -159,8 +161,8 @@ $template->drawMainOpen();
 									</div>
 									<!--END new post entry .hentry-->
 
-								</div>
-							</section>
+								<!-- </div>
+							</section> -->
 						</article>
 <?php
 $template->drawMainClose();
