@@ -46,9 +46,9 @@ a:link, a:visited {
 }
 
 ul a:hover {
-  color: #bd8100;
-  background-color: #364c63;
-  }
+    color: #bd8100;
+    background-color: #364c63;
+}
 
 ul a:active {
     color: #bd8100;
@@ -183,7 +183,7 @@ ul a:active {
 }
 
 #twitterSVG:hover {
-  fill: #bd8100;
+    fill: #bd8100;
 }
 
 #content-container>div>hr {
@@ -207,7 +207,7 @@ ul a:active {
     /*top: 15em;*/
     z-index: 99997;
     width: 100%;
-    background: linear-gradient(45deg,#c4918a 20%,#6093c4 80%);
+    background: linear-gradient(45deg, #c4918a 20%, #6093c4 80%);
     box-shadow: 0 10px 20px 1px rgba(86, 86, 86, .3);
 }
 
@@ -319,7 +319,7 @@ ul a:active {
 }
 
 #main>article>section {
-  display: inline-flex;
+    display: inline-flex;
 }
 
 #main>article>header {
@@ -334,7 +334,7 @@ ul a:active {
 }
 
 #sidebar-container.sidebar {
-  margin-bottom: 3rem;
+    margin-bottom: 3rem;
     height: auto;
     font: 300 1em 'PT Sans', arial, sans-serif !important;
     padding: 0 1rem 1rem 1rem;
@@ -358,13 +358,13 @@ ul a:active {
 }
 
 .sidebar-entry-title {
-  display: inline;
+    display: inline;
 }
 
-#sidebar-content-container > a {
-  margin-bottom: 1em;
-  display: inline-flex;
-  font-size: .9em !important;
+#sidebar-content-container>a {
+    margin-bottom: 1em;
+    display: inline-flex;
+    font-size: .9em !important;
 }
 
 #content-wrapper {
