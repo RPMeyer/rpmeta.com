@@ -22,11 +22,6 @@ body {
     float: right;
 }
 
-
-/*#header-image-container>img {
-    max-width: 100%;
-}*/
-
 .header-image {
     max-width: 100%;
     height: auto;
@@ -50,9 +45,13 @@ a:link, a:visited {
     text-transform: uppercase;
 }
 
-ul a:hover, a:active {
+ul a:hover {
+  color: #bd8100;
+  background-color: #364c63;
+  }
+
+ul a:active {
     color: #bd8100;
-    background-color: #364c63;
 }
 
 .entry p a img {
@@ -289,7 +288,7 @@ ul a:hover, a:active {
 
 .TESTING {
     font: 300 1em 'PT Sans', arial, sans-serif !important;
-    margin: 0 0rem 2rem 0rem;
+    margin: 1rem 0 0 0;
     padding: 1rem 2rem;
     background-color: rgb(89, 90, 93);
     -webkit-border-radius: 3px 3px 3px 3px;
@@ -305,7 +304,7 @@ ul a:hover, a:active {
 
 .entry {
     /*margin: 0 0rem 2rem 0rem;*/
-    padding: 1rem 2rem;
+    padding: 0 1rem 1rem 1rem;
     background-color: rgba(0, 0, 0, .05);
     -webkit-border-radius: 3px 3px 3px 3px;
     border-radius: 3px 3px 3px 3px;
@@ -319,7 +318,9 @@ ul a:hover, a:active {
     font-size: .75rem;
 }
 
-#main>article>section {}
+#main>article>section {
+  display: inline-flex;
+}
 
 #main>article>header {
     display: none;
@@ -333,9 +334,10 @@ ul a:hover, a:active {
 }
 
 #sidebar-container.sidebar {
+  margin-bottom: 3rem;
     height: auto;
     font: 300 1em 'PT Sans', arial, sans-serif !important;
-    padding: 1rem 1.5rem;
+    padding: 0 1rem 1rem 1rem;
     background-color: rgb(255, 255, 255);
     -webkit-border-radius: 3px 3px 3px 3px;
     border-radius: 3px 3px 3px 3px;
@@ -345,14 +347,21 @@ ul a:hover, a:active {
 }
 
 #sidebar-content-container {
-    padding: 1rem 2rem;
-    margin-bottom: 1em;
+    padding: 1rem 1rem;
+    margin-top: 1em;
     background-color: rgba(0, 0, 0, .05);
     -webkit-border-radius: 3px 3px 3px 3px;
     border-radius: 3px 3px 3px 3px;
     border-bottom: 1px solid rgba(0, 0, 0, .1);
     webkit-box-shadow: 0 0 6px 1px rgba(86, 86, 86, .3);
     box-shadow: 0 0 6px 1px rgba(86, 86, 86, .3);
+}
+.sidebar-entry-title {
+  display: inline;
+}
+#sidebar-content-container > a {
+  margin-bottom: 1em;
+  display: inline-flex;
 }
 
 #content-wrapper {
@@ -362,7 +371,7 @@ ul a:hover, a:active {
 }
 
 #content {
-    margin: 0 0 0 10%;
+    margin: 0 0 2rem 10%;
     background-color: rgba(42, 72, 104, 1);
     z-index: 2;
     padding: 1rem;
