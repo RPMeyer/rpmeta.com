@@ -207,7 +207,7 @@ ul a:active {
     /*top: 15em;*/
     z-index: 99997;
     width: 100%;
-    background: #5c87b5;
+    background: linear-gradient(45deg,#c4918a 20%,#6093c4 80%);
     box-shadow: 0 10px 20px 1px rgba(86, 86, 86, .3);
 }
 
