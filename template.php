@@ -182,15 +182,38 @@ $(document).ready(function() {
     <div>
       <a class='more-link' href='#'>read more...</a>
     </div>
-
   </article>
   <article id="sidebar-content-container">
-    <a>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi. Vestibulum blandit, enim at aliquet pharetra,
+    <h3 id="title of post" class='entry-title sidebar-entry-title'>
+      <a title='TESTING POST-2' rel='bookmark' href='#'>Nintendo Switch Software Review</a>
+    </h3>
+    <div class='theExrp'>
+      <a href='http://'>
+        <img src="http://" class="attachment-post-thumbnail" alt="" />
+      </a>
+    </div>
+    <hr/>
+    <a class="featured-article-exrp">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi. Vestibulum blandit, enim at aliquet pharetra,
        lacus diam vulputate tortor, sed hendrerit diam purus eget urna. Cras porttitor eleifend leo, et faucibus neque venenatis ac. </a>
+    <div>
+      <a class='more-link' href='#'>read more...</a>
+    </div>
   </article>
   <article id="sidebar-content-container">
-    <a>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi. Vestibulum blandit, enim at aliquet pharetra,
+    <h3 id="title of post" class='entry-title sidebar-entry-title'>
+      <a title='TESTING POST-2' rel='bookmark' href='#'>Nintendo Switch Software Review</a>
+    </h3>
+    <div class='theExrp'>
+      <a href='http://'>
+        <img src="http://" class="attachment-post-thumbnail" alt="" />
+      </a>
+    </div>
+    <hr/>
+    <a class="featured-article-exrp">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi. Vestibulum blandit, enim at aliquet pharetra,
        lacus diam vulputate tortor, sed hendrerit diam purus eget urna. Cras porttitor eleifend leo, et faucibus neque venenatis ac. </a>
+    <div>
+      <a class='more-link' href='#'>read more...</a>
+    </div>
   </article>
 </div>
 <?php
