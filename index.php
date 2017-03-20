@@ -20,6 +20,9 @@ $template->drawMainOpen();
 								<div class="content-container">
 									<!--Begin new post entry-->
 									<div class='post-1 TESTING' id='post-1'>
+										<div class="product-splash">
+											
+										</div>
 										<h3 class='entry-title'>
 											<a title='TESTING POST-2' rel='bookmark' href='#'>Reviews Products and the Meta</a>
 										</h3>
