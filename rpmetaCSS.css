@@ -354,6 +354,13 @@ ul a:hover, a:active {
     webkit-box-shadow: 0 0 6px 1px rgba(86, 86, 86, .3);
     box-shadow: 0 0 6px 1px rgba(86, 86, 86, .3);
 }
+.sidebar-entry-title {
+  display: inline;
+}
+#sidebar-content-container > a {
+  margin-bottom: 1em;
+  display: inline-flex;
+}
 
 #content-wrapper {
     display: inline-block;
