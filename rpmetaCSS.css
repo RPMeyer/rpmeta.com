@@ -334,6 +334,7 @@ ul a:active {
 }
 
 #sidebar-container.sidebar {
+  margin-bottom: 3rem;
     height: auto;
     font: 300 1em 'PT Sans', arial, sans-serif !important;
     padding: 0 1rem 1rem 1rem;
