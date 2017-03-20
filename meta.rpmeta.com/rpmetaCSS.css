@@ -207,7 +207,7 @@ ul a:active {
     /*top: 15em;*/
     z-index: 99997;
     width: 100%;
-    background: #5c87b5;
+    background: linear-gradient(45deg,#c4918a 20%,#6093c4 80%);
     box-shadow: 0 10px 20px 1px rgba(86, 86, 86, .3);
 }
 
@@ -290,7 +290,7 @@ ul a:active {
     font: 300 1em 'PT Sans', arial, sans-serif !important;
     margin: 1rem 0 0 0;
     padding: 1rem 2rem;
-    background-color: rgb(89, 90, 93);
+    background-color: rgb(84, 95, 120);
     -webkit-border-radius: 3px 3px 3px 3px;
     border-radius: 3px 3px 3px 3px;
     border-bottom: 1px solid rgba(0, 0, 0, .1);
@@ -305,7 +305,7 @@ ul a:active {
 .entry {
     /*margin: 0 0rem 2rem 0rem;*/
     padding: 0 1rem 1rem 1rem;
-    background-color: rgba(0, 0, 0, .05);
+    background-color: rgba(255, 255, 255, 0.14);
     -webkit-border-radius: 3px 3px 3px 3px;
     border-radius: 3px 3px 3px 3px;
     border-bottom: 1px solid rgba(0, 0, 0, .1);
