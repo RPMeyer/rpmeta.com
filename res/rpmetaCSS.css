@@ -373,7 +373,7 @@ ul a:active {
     /*padding-top: 15rem;*/
 }
 
-#product-splash {
+.product-splash {
   height: 7em;
   position: relative;
   width: 100%;
