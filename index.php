@@ -44,7 +44,7 @@ $template->drawMainOpen();
 										</div>
 									</div>
 								</div>
-						</article>
+							</section>
 									<!--END new post entry .hentry-->
 
 									<!--Begin new post entry-->
