@@ -373,20 +373,35 @@ ul a:active {
     /*padding-top: 15rem;*/
 }
 
-.product-splash {
+.product-splash-left {
     height: 7em;
     position: relative;
     width: 100%;
     background-color: #c4918a;
     display: inline-flex;
 }
+.product-splash-right {
+    height: 7em;
+    position: relative;
+    width: 100%;
+    background-color: grey;
+    display: inline-flex;
+}
 
-div.product-splash > a {
+div.product-splash-left > a {
   font-size: 5em;
   font-family: sans-serif;
   display: inline-flex;
   margin: auto;
   margin-left: 0;
+}
+
+div.product-splash-right > a {
+  font-size: 5em;
+  font-family: sans-serif;
+  display: inline-flex;
+  margin: auto;
+  margin-right: 0;
 }
 
 
