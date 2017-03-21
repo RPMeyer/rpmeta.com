@@ -14,7 +14,7 @@ $template->drawMainOpen();
 	<section class="entry">
 		<!--Begin new post entry-->
 		<div class="product-splash-left">
-			<a> PRODUCT </a>
+			<img src="http://rpmeta.com/res/ProductImageLeft.svg" class="product-template"/>
 		</div>
 		<!-- <p><a href="http://www.rpmeta.com/"><img id="splashRPM" class="splash-logo" src="http://#"/></a></p> -->
 		<div class="content-container">
