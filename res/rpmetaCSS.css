@@ -288,7 +288,7 @@ ul a:active {
 
 .TESTING {
     font: 300 1em 'PT Sans', arial, sans-serif !important;
-    margin: 1rem 0 0 0;
+    margin: 1rem;
     padding: 1rem 2rem;
     background-color: rgb(84, 95, 120);
     -webkit-border-radius: 3px 3px 3px 3px;
@@ -374,14 +374,16 @@ ul a:active {
 }
 
 .product-splash {
-  height: 7em;
-  position: relative;
-  width: 100%;
-  background-color: #198ca9;
+    height: 7em;
+    position: relative;
+    width: 100%;
+    background-color: #198ca9;
 }
+
 #content-container {
-  padding: 0 1rem 1rem 1rem;
+    padding: 0 1rem 1rem 1rem;
 }
+
 #content {
     margin: 0 0 2rem 10%;
     background-color: rgba(42, 72, 104, 1);
