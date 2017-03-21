@@ -377,7 +377,8 @@ ul a:active {
     height: 7em;
     position: relative;
     width: 100%;
-    background-color: #198ca9;
+    background-color: #c4918a;
+    display: inline-flex;
 }
 
 div.product-splash > a {
