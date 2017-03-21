@@ -380,6 +380,15 @@ ul a:active {
     background-color: #198ca9;
 }
 
+div.product-splash > a {
+  font-size: 5em;
+  font-family: sans-serif;
+  display: inline-flex;
+  margin: auto;
+  margin-left: 0;
+}
+
+
 #content-container {
     padding: 0 1rem 1rem 1rem;
 }
