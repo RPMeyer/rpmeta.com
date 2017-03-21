@@ -12,6 +12,9 @@ $template->drawMainOpen();
 								<h1 class="entry-title">TESTING ENTRY-TITLE (Reviews Products and the Meta)</h1>
 							</header>
 							<section class="entry">
+								<div class="product-splash">
+
+								</div>
 								<p>
 									<a href="http://www.rpmeta.com/">
 										<img id="splashRPM" class="splash-logo" src="http://rpmeyer.org/RPMeyerPNG2.png"/>
@@ -19,9 +22,6 @@ $template->drawMainOpen();
 								</p>
 								<div class="content-container">
 									<!--Begin new post entry-->
-									<div class="product-splash">
-
-									</div>
 									<div class='post-1 TESTING' id='post-1'>
 										<h3 class='entry-title'>
 											<a title='TESTING POST-2' rel='bookmark' href='#'>Reviews Products and the Meta</a>
