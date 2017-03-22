@@ -312,25 +312,26 @@ ul a:active {
     webkit-box-shadow: 0 0 6px 1px rgba(86, 86, 86, .3);
     box-shadow: 0px 0px 10px 2px rgba(0, 0, 0, 0.3)
 }
-.product-splash-left > a {
-  width: 100%;
+
+.product-splash-left>a {
+    width: 100%;
 }
-#ProductTesting
-{
-  width: 100%;
+
+#ProductTesting {
+    width: 100%;
 }
 
 #BOTWTestingThumb {
-  max-width: 33%;
-  position: absolute;
+    max-width: 33%;
+    position: absolute;
 }
 
 #product-splash-zelda-test {
-  background-image: url(http://rpmeta.com/res/ProductImageTest.jpg);
-  background-size: cover;
-  width: 100%;
-  background-position: center center;
-  height: auto;
+    background-image: url(http://rpmeta.com/res/ProductImageTest.jpg);
+    background-size: cover;
+    width: 100%;
+    background-position: center center;
+    height: auto;
 }
 
 #title-of-post {
@@ -400,6 +401,7 @@ ul a:active {
     background-color: #c4918a;
     display: inline-flex;*/
 }
+
 .product-splash-right {
     height: 7em;
     position: relative;
@@ -408,22 +410,21 @@ ul a:active {
     display: inline-flex;
 }
 
-div.product-splash-left > a {
-  font-size: 5em;
-  font-family: sans-serif;
-  display: inline-flex;
-  margin: auto;
-  margin-left: 0;
+div.product-splash-left>a {
+    font-size: 5em;
+    font-family: sans-serif;
+    display: inline-flex;
+    margin: auto;
+    margin-left: 0;
 }
 
-div.product-splash-right > a {
-  font-size: 5em;
-  font-family: sans-serif;
-  display: inline-flex;
-  margin: auto;
-  margin-right: 0;
+div.product-splash-right>a {
+    font-size: 5em;
+    font-family: sans-serif;
+    display: inline-flex;
+    margin: auto;
+    margin-right: 0;
 }
-
 
 #content-container {
     padding: 0 1rem 1rem 1rem;
