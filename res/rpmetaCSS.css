@@ -314,6 +314,7 @@ ul a:active {
 }
 #product-splash-zelda-test {
   background-image: url(http://rpmeta.com/res/ProductImageTest.jpg);
+  background-size: cover;
   background-position: center center;
 }
 #title-of-post {
