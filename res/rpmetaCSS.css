@@ -315,6 +315,15 @@ ul a:active {
 .product-splash-left > a {
   width: 100%;
 }
+#ProductTesting
+{
+  width: 100%;
+}
+
+#BOTWTestingThumb {
+  max-width: 33%;
+  position: absolute;
+}
 
 #product-splash-zelda-test {
   background-image: url(http://rpmeta.com/res/ProductImageTest.jpg);
@@ -323,6 +332,7 @@ ul a:active {
   background-position: center center;
   height: auto;
 }
+
 #title-of-post {
     color: rgba(255, 255, 255, 0.7);
     font-size: .75rem;
@@ -384,11 +394,11 @@ ul a:active {
 }
 
 .product-splash-left {
-    height: 7em;
+    /*height: 7em;*/
     position: relative;
-    width: 100%;
+    /*width: 100%;
     background-color: #c4918a;
-    display: inline-flex;
+    display: inline-flex;*/
 }
 .product-splash-right {
     height: 7em;
