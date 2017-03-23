@@ -315,8 +315,6 @@ ul a:active {
 
 .product-splash-left>a {
     width: 100%;
-    box-shadow: 0 0 6px 1px rgba(86, 86, 86, .3);
-    border-bottom: 1px solid rgba(0, 0, 0, .1);
 }
 
 #ProductTesting {
@@ -327,13 +325,18 @@ ul a:active {
     max-width: 33.33%;
     position: absolute;
 }
-
+#SwitchThumb {
+  max-width: 33.33%;
+  position: absolute;
+  right: 0;
+}
+#product-splash-switch-test {
+  box-shadow: 0 0 6px 1px rgba(86, 86, 86, .3);
+  border-bottom: 1px solid rgba(0, 0, 0, .1);
+}
 #product-splash-zelda-test {
-    background-image: url(http://rpmeta.com/res/ProductImageTest.jpg);
-    background-size: cover;
-    width: 100%;
-    background-position: center center;
-    height: auto;
+  box-shadow: 0 0 6px 1px rgba(86, 86, 86, .3);
+  border-bottom: 1px solid rgba(0, 0, 0, .1);
 }
 
 #title-of-post {
@@ -397,19 +400,11 @@ ul a:active {
 }
 
 .product-splash-left {
-    /*height: 7em;*/
     position: relative;
-    /*width: 100%;
-    background-color: #c4918a;
-    display: inline-flex;*/
 }
 
 .product-splash-right {
-    height: 7em;
     position: relative;
-    width: 100%;
-    background-color: #6093c4;
-    display: inline-flex;
 }
 
 div.product-splash-left>a {
