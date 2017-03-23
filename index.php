@@ -49,7 +49,13 @@ $template->drawMainOpen();
 		<!--END new post entry .hentry-->
 		<!--Begin new post entry-->
 		<div class="product-splash-right">
-			<a> PRODUCT </a>
+			<!-- <img src="http://rpmeta.com/res/ProductImageLeft.svg" class="product-template"/> -->
+			<a href="#">
+				<div id="product-splash-switch-test">
+					<img src="http://rpmeta.com/res/SwitchThumb.png" alt="" id="SwitchThumb">
+					<img src="http://rpmeta.com/res/ProductTestingRight.png" alt="" id="ProductTesting">
+				</div>
+			<!-- <img src="http://rpmeta.com/res/ProductImageTest.jpg" class="product-image-left"/> -->
 		</div>
 		<div class="content-container">
 			<div class='post-1 TESTING' id='post-1'>
