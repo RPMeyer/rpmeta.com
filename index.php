@@ -53,7 +53,7 @@ $template->drawMainOpen();
 			<a href="#">
 				<div id="product-splash-switch-test">
 					<img src="http://rpmeta.com/res/SwitchThumb.png" alt="" id="SwitchThumb">
-					<img src="http://rpmeta.com/res/ProductTestingRight.png" alt="" id="ProductTesting">
+					<img src="http://rpmeta.com/res/ProductTesting2.png" alt="" id="ProductTesting">
 				</div>
 			<!-- <img src="http://rpmeta.com/res/ProductImageTest.jpg" class="product-image-left"/> -->
 		</div>
