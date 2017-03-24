@@ -319,6 +319,7 @@ ul a:active {
 
 #ProductTesting {
     width: 100%;
+    position: relative;
 }
 
 #BOTWTestingThumb {
