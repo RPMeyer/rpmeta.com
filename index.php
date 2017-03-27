@@ -13,17 +13,17 @@ $template->drawMainOpen();
 	</header>
 	<section class="entry">
 		<!--Begin new post entry-->
+		<div id="shadowTest">
 		<div class="product-splash-left">
 			<!-- <img src="http://rpmeta.com/res/ProductImageLeft.svg" class="product-template"/> -->
 			<a href="#">
-				<div id="shadowTest">
 				<div id="product-splash-zelda-test">
 					<img src="http://rpmeta.com/res/BoTWTestingThumb.png" alt="" id="BOTWTestingThumb">
 					<img src="http://rpmeta.com/res/ProductTesting.png" alt="" id="ProductTesting">
 				</div>
-				</div>
 			<!-- <img src="http://rpmeta.com/res/ProductImageTest.jpg" class="product-image-left"/> -->
 		</div>
+	</div>
 		<!-- <p><a href="http://www.rpmeta.com/"><img id="splashRPM" class="splash-logo" src="http://#"/></a></p> -->
 		<div class="content-container">
 			<div class='post-1 TESTING' id='post-1'>
