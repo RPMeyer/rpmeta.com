@@ -299,6 +299,7 @@ ul a:active {
 }
 
 .TESTING:hover {
+  transition: box-shadow 1s;
     box-shadow: inset 0px 0px 9px 3px rgb(0, 0, 0);
 }
 
