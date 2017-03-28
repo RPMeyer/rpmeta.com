@@ -296,10 +296,11 @@ ul a:active {
     border-bottom: 1px solid rgba(0, 0, 0, .1);
     webkit-box-shadow: 0 0 6px 1px rgba(86, 86, 86, .3);
     box-shadow: inset 0px 0px 9px 3px rgba(25, 18, 12, 0.6);
+    transition: box-shadow 1s;
 }
 
 .TESTING:hover {
-  transition: box-shadow 1s;
+    transition: box-shadow 1s;
     box-shadow: inset 0px 0px 9px 3px rgb(0, 0, 0);
 }
 
