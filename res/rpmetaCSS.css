@@ -324,9 +324,9 @@ ul a:active {
 #ProductTesting {
     width: 100%;
     position: relative;
-    mask-image: url(http://rpmeta.com/res/RPMetaBackground.svg);
-    mask-type: luminance;
-    mask-mode: alpha;
+    -webkit-mask: url(http://rpmeta.com/res/RPMetaBackground.svg);
+    -webkit-mask-type: luminance;
+    -webkit-mask-mode: alpha;
 }
 
 #BOTWTestingThumb {
