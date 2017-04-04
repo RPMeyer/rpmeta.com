@@ -141,6 +141,7 @@ ul a:active {
 
 /*-------------------------------------------------------------------------------------------*/
 
+
 #logo>a>img {
     top: 32px;
     height: 3.2em !important;
@@ -323,24 +324,30 @@ ul a:active {
 #ProductTesting {
     width: 100%;
     position: relative;
+    mask-image: url(http://rpmeta.com/res/RPMetaBackground.svg);
+    mask-type: luminance;
+    mask-mode: alpha;
 }
 
 #BOTWTestingThumb {
     max-width: 33.33%;
     position: absolute;
 }
+
 #SwitchThumb {
-  max-width: 33.33%;
-  position: absolute;
-  right: 0;
+    max-width: 33.33%;
+    position: absolute;
+    right: 0;
 }
+
 #product-splash-switch-test {
-  box-shadow: 0 0 6px 1px rgba(86, 86, 86, .3);
-  border-bottom: 1px solid rgba(0, 0, 0, .1);
+    box-shadow: 0 0 6px 1px rgba(86, 86, 86, .3);
+    /*border-bottom: 1px solid rgba(0, 0, 0, .1);*/
 }
+
 #product-splash-zelda-test {
-  box-shadow: 0 0 6px 1px rgba(86, 86, 86, .3);
-  border-bottom: 1px solid rgba(0, 0, 0, .1);
+    box-shadow: 0 0 6px 1px rgba(86, 86, 86, .3);
+    /*border-bottom: 1px solid rgba(0, 0, 0, .1);*/
 }
 
 #title-of-post {
