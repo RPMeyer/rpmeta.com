@@ -324,7 +324,7 @@ ul a:active {
 #ProductTesting {
     width: 100%;
     position: relative;
-    -webkit-mask: url(http://rpmeta.com/res/RPMetaBackground.svg);
+    -webkit-mask: url(http://rpmeta.com/res/RPMetaBackground.svg),50% 50% / 350px 350px no-repeat;
     -webkit-mask-type: luminance;
     -webkit-mask-mode: alpha;
 }
