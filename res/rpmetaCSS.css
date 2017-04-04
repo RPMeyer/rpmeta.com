@@ -324,7 +324,7 @@ ul a:active {
 #ProductTesting {
     width: 100%;
     position: relative;
-    -webkit-mask: url(#Layer_1), 350px 350px;
+    -webkit-mask: url(#Layer_1), center center / 350px 350px no-repeat;
     -webkit-mask-type: luminance;
     -webkit-mask-mode: alpha;
 }
