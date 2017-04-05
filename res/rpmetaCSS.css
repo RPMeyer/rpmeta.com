@@ -334,12 +334,14 @@ ul a:active {
 #BOTWTestingThumb {
     max-width: 33.33%;
     position: absolute;
+    z-index: 99;
 }
 
 #SwitchThumb {
     max-width: 33.33%;
     position: absolute;
     right: 0;
+    z-index: 99;
 }
 
 #product-splash-switch-test {
