@@ -379,7 +379,7 @@ ul a:active {
     height: auto;
     font: 300 1em 'PT Sans', arial, sans-serif !important;
     padding: 0 1rem 1rem 1rem;
-    background-color: rgb(255, 255, 255);
+    background-color: rgb(44, 72, 103);
     -webkit-border-radius: 3px 3px 3px 3px;
     border-radius: 3px 3px 3px 3px;
     border-bottom: 1px solid rgba(0, 0, 0, .1);
