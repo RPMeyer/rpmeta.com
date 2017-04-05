@@ -402,6 +402,13 @@ ul a:active {
     display: inline;
 }
 
+.sidebar-entry-title>a {
+  color: white;
+}
+.sidebar-entry-title>a:hover {
+  color: rgb(196, 145, 138);
+  transition: .33s;
+}
 #sidebar-content-container>a {
     margin-bottom: 1em;
     display: inline-flex;
