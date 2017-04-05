@@ -328,6 +328,7 @@ ul a:active {
     -webkit-mask: url(http://rpmeta.com/res/BackgroundTess.svg)center center/125%;
     -webkit-mask-type: luminance;
     -webkit-mask-mode: alpha;
+    opacity: .75;
 }
 
 #BOTWTestingThumb {
@@ -413,10 +414,12 @@ ul a:active {
 
 .product-splash-left {
     position: relative;
+    background-color: rgb(42, 72, 104);
 }
 
 .product-splash-right {
     position: relative;
+    background-color: rgb(42, 72, 104);
 }
 
 div.product-splash-left>a {
