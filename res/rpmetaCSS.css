@@ -347,6 +347,12 @@ ul a:active {
     z-index: 99;
 }
 
+.meta-splash-left {
+  max-width: 33.33%;
+  position: absolute;
+  z-index: 99;
+}
+
 #product-splash-switch-test {
     box-shadow: 0 0 6px 1px rgba(86, 86, 86, .3);
     /*border-bottom: 1px solid rgba(0, 0, 0, .1);*/
