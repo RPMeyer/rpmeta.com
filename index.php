@@ -17,7 +17,7 @@ $template->drawMainOpen();
 			<!-- <img src="http://rpmeta.com/res/ProductImageLeft.svg" class="product-template"/> -->
 			<a href="#">
 				<div id="product-splash-zelda-test">
-					<img src="http://rpmeta.com/res/EvolutionClimateThumbnail.jpg" alt="" id="BOTWTestingThumb">
+					<img src="http://rpmeta.com/res/EvolutionClimateThumbnail.jpg" alt="" id="SwitchThumb">
 					<img src="http://rpmeta.com/res/ProductTesting.png" alt="" id="ProductTesting">
 				</div>
 			<!-- <img src="http://rpmeta.com/res/ProductImageTest.jpg" class="product-image-left"/> -->
