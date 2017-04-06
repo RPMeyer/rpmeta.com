@@ -347,6 +347,10 @@ ul a:active {
     z-index: 99;
 }
 
+.meta-splash-left {
+  position: relative;
+}
+
 #EvoClimKillerStrat {
   max-width: 33.33%;
   position: absolute;
