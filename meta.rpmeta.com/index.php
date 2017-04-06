@@ -1,6 +1,7 @@
 <?php
 require_once($_SERVER[ 'DOCUMENT_ROOT'] . '/template.php');
-$template=n ew Template(); $template->drawHeader();
+$template=new Template();
+$template->drawHeader();
 $template->drawMainOpen();
 ?>
 
