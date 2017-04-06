@@ -178,7 +178,7 @@ ul a:active {
 #socials>li {
     display: inline-flex;
 }
-#socials > li:hover {
+#socials>li>a:hover {
   background-color: none;
 }
 
