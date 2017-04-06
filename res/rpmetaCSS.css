@@ -178,8 +178,8 @@ ul a:active {
 #socials>li {
     display: inline-flex;
 }
-#socials>li>a:hover {
-  background-color: none;
+#socials > li:hover {
+  background-color: none !important;
 }
 
 #facebookSVG:hover {
