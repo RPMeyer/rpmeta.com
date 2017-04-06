@@ -179,7 +179,7 @@ ul a:active {
     display: inline-flex;
 }
 #socials > li:hover {
-  background-color: none !important;
+  background-color: transparent !important;
 }
 
 #facebookSVG:hover {
