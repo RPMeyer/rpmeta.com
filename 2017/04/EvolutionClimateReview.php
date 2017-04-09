@@ -1,6 +1,6 @@
 <?php
-require_once($_SERVER[ 'DOCUMENT_ROOT'] . '/template.php');
-$template=new Template();
+require_once($_SERVER[ 'DOCUMENT_ROOT'] . '/templateArticle.php');
+$template=new TemplateArticle();
 $template->drawHeader();
 $template->drawMainOpen();
 ?>
