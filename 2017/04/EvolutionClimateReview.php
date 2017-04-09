@@ -9,15 +9,16 @@ $template->drawMainOpen();
 	<header>
 		<h1 class="entry-title">TESTING ENTRY-TITLE (Reviews Products and the Meta)</h1>
 	</header>
+	<div class="meta-splash-left">
+		<a href="#">
+			<div id="meta-splash-placeholder">
+				<img src="http://rpmeta.com/res/EvoClimKillerStrat.jpg" alt="" id="EvoClimKillerStrat">
+				<img src="http://rpmeta.com/res/ProductTesting.png" alt="" id="ProductTesting">
+			</div>
+	</div>
 	<section class="entry">
 		<!--Begin new post entry-->
-		<div class="meta-splash-left">
-			<a href="#">
-				<div id="meta-splash-placeholder">
-					<img src="http://rpmeta.com/res/EvoClimKillerStrat.jpg" alt="" id="EvoClimKillerStrat">
-					<img src="http://rpmeta.com/res/ProductTesting.png" alt="" id="ProductTesting">
-				</div>
-		</div>
+
 		<div class="content-container">
 			<div class='post-1 TESTING' id='post-1'>
 				<h3 class='entry-title'>
