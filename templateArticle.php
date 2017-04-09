@@ -75,45 +75,40 @@ $(document).ready(function() {
       </div>
       <!--#nav-container FORMATTED RPM-->
       <div id="nav-container" data-spy="affix" data-offset-top="197">
-          <nav id="main-menu" class="col-full" role="navigation">
-              <div id="logo">
-                  <a href="http://www.rpmeta.com/" title=""><img src="http://rpmeyer.org/RPMlogoSheared1.svg" alt=""/></a>
-                  <span class="site-title"><a href="http://www.rpmeta.com/">RPMeta</a></span>
-              </div>
+      	<nav id="main-menu" class="col-full" role="navigation">
+      		<section id="section-menu" class="menus">
+      			<h3>Main Nav</h3>
+      			<ul id="main-menu-list" class="nav">
+      				<li id="menu-item-home" class="menu-item"><a href="http://rpmeta.com">Home</a>
+      				</li>
+      				<li id="menu-item-reviews" class="menu-item"><a href="http://rpmeta.com/reviews.rpmeta.com/index.php">Reviews</a>
+      				</li>
+      				<li id="menu-item-products" class="menu-item"><a href="http://rpmeta.com/products.rpmeta.com/index.php">Products</a>
+      				</li>
+      				<li id="menu-item-meta" class="menu-item"><a href="http://rpmeta.com/meta.rpmeta.com/index.php">Meta</a>
+      				</li>
+      				<li id="menu-item-about" class="menu-item"><a href="http://rpmeta.com/about.rpmeta.com/index.php">About</a>
+      				</li>
+      				<li id="menu-item-subscribe" class="menu-item"><a href="http://rpmeyer.org/News/index.php">Subscribe</a>
+      				</li>
+      			</ul>
+      		</section>
 
-              <section id="section-menu" class="menus">
-                  <h3>Main Nav</h3>
-                  <ul id="main-menu-list" class="nav">
-                      <li id="menu-item-home" class="menu-item"><a href="http://rpmeta.com">Home</a></li>
-                      <li id="menu-item-reviews" class="menu-item"><a href="http://rpmeta.com/reviews.rpmeta.com/index.php">Reviews</a></li>
-                      <li id="menu-item-products" class="menu-item"><a href="http://rpmeta.com/products.rpmeta.com/index.php">Products</a></li>
-                      <li id="menu-item-meta" class="menu-item"><a href="http://rpmeta.com/meta.rpmeta.com/index.php">Meta</a></li>
-                      <li id="menu-item-about" class="menu-item"><a href="http://rpmeta.com/about.rpmeta.com/index.php">About</a></li>
-                      <li id="menu-item-subscribe" class="menu-item"><a href="http://rpmeyer.org/News/index.php">Subscribe</a></li>
-                  </ul>
-              </section>
-
-              <div id="media-buttons" class="media-images-svg">
-                <ul id="socials">
-                  <li>
-                    <a href="https://www.facebook.com/rpmeta" class="facebook">
-                      <img id="facebookSVG" class="svg social-media" src="http://rpmeta.com/res/FacebookF.svg" alt=""/></img>
-                    </a>
-                    <a href="https://twitter.com/arrpmeyer" class="twitter">
-                      <img id='twitterSVG' class="svg social-media" src="http://rpmeta.com/res/TwitterBird.svg" alt=""/></img>
-                    </a>
-                  </li>
-                </ul>
-              </div>
-
-              <a href="#splashRPM" class="nav-close">
-                  <span>top</span>
-              </a>
-              <!-- /.menus -->
-          </nav>
+      		<div id="media-buttons" class="media-images-svg">
+      			<ul id="socials">
+      				<li>
+      					<a href="https://www.facebook.com/rpmeta" class="facebook">
+      						<img id="facebookSVG" class="svg social-media" src="http://rpmeta.com/res/FacebookF.svg" alt="" /></img>
+      					</a>
+      					<a href="https://twitter.com/arrpmeyer" class="twitter">
+      						<img id='twitterSVG' class="svg social-media" src="http://rpmeta.com/res/TwitterBird.svg" alt="" /></img>
+      					</a>
+      				</li>
+      			</ul>
+      		</div>
+      	</nav>
       </div>
       <!--/#nav-container FORMATTED RPM-->
-
 <?php
         //starting php tag to output more template
     }
