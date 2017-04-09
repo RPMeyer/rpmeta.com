@@ -74,7 +74,7 @@ $(document).ready(function() {
           <!--End Splashpage container FORMATTED RPM-->
       </div>
       <!--#nav-container FORMATTED RPM-->
-      <div id="nav-container" data-spy="affix" data-offset-top="197">
+      <div id="nav-container">
       	<nav id="main-menu" class="col-full" role="navigation">
       		<section id="section-menu" class="menus">
       			<h3>Main Nav</h3>
@@ -160,7 +160,7 @@ $(document).ready(function() {
     public function drawSidebar()
     {
 ?>
-<div id="sidebar-container" class="sidebar" data-spy="affix" data-offset-top="197">
+<div id="sidebar-container" class="sidebar">
   <article id="sidebar-content-container">
     <h3 id="title of post" class='entry-title sidebar-entry-title'>
       <a title='TESTING POST-2' rel='bookmark' href='#'>Nintendo Switch Software Review</a>
