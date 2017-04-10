@@ -36,6 +36,26 @@ $template->drawMainOpen();
 							Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate
 							Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat
 						</p>
+						<p id="testingtest">
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi. Vestibulum blandit, enim at aliquet pharetra,
+					       lacus diam vulputate tortor, sed hendrerit diam purus eget urna. Cras porttitor eleifend leo, et faucibus neque venenatis ac.
+						</p>
+						<p id="testingtest">
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi. Vestibulum blandit, enim at aliquet pharetra,
+					       lacus diam vulputate tortor, sed hendrerit diam purus eget urna. Cras porttitor eleifend leo, et faucibus neque venenatis ac.
+						</p>
+						<p id="testingtest">
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi. Vestibulum blandit, enim at aliquet pharetra,
+					       lacus diam vulputate tortor, sed hendrerit diam purus eget urna. Cras porttitor eleifend leo, et faucibus neque venenatis ac.
+						</p>
+						<p id="testingtest">
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi. Vestibulum blandit, enim at aliquet pharetra,
+					       lacus diam vulputate tortor, sed hendrerit diam purus eget urna. Cras porttitor eleifend leo, et faucibus neque venenatis ac.
+						</p>
+						<p id="testingtest">
+							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi. Vestibulum blandit, enim at aliquet pharetra,
+					       lacus diam vulputate tortor, sed hendrerit diam purus eget urna. Cras porttitor eleifend leo, et faucibus neque venenatis ac.
+						</p>
 					</div>
 					<hr/>
 					<div>
