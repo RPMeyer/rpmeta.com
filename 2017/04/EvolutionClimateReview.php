@@ -40,6 +40,12 @@ $template->drawMainOpen();
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi. Vestibulum blandit, enim at aliquet pharetra,
 					       lacus diam vulputate tortor, sed hendrerit diam purus eget urna. Cras porttitor eleifend leo, et faucibus neque venenatis ac.
 						</p>
+						<div class="exerp-float-left">
+							<q>
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi.
+							</q>
+						</div>
+
 						<p class="article-paragraph">
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi. Vestibulum blandit, enim at aliquet pharetra,
 					       lacus diam vulputate tortor, sed hendrerit diam purus eget urna. Cras porttitor eleifend leo, et faucibus neque venenatis ac.
@@ -48,10 +54,20 @@ $template->drawMainOpen();
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi. Vestibulum blandit, enim at aliquet pharetra,
 					       lacus diam vulputate tortor, sed hendrerit diam purus eget urna. Cras porttitor eleifend leo, et faucibus neque venenatis ac.
 						</p>
+						<div class="exerp-float-right">
+							<q>
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi.
+							</q>
+						</div>
 						<p class="article-paragraph">
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi. Vestibulum blandit, enim at aliquet pharetra,
 					       lacus diam vulputate tortor, sed hendrerit diam purus eget urna. Cras porttitor eleifend leo, et faucibus neque venenatis ac.
 						</p>
+						<div class="exerp-float-left">
+							<q>
+								Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi.
+							</q>
+						</div>
 						<p class="article-paragraph">
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi. Vestibulum blandit, enim at aliquet pharetra,
 					       lacus diam vulputate tortor, sed hendrerit diam purus eget urna. Cras porttitor eleifend leo, et faucibus neque venenatis ac.
