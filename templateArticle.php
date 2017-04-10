@@ -151,7 +151,7 @@ $(document).ready(function() {
     <!--/#header-container-->
     <!-- #content Starts -->
     <!-- Splashpage container Starts FORMATTED RPM-->
-    <div id="content" class="col-full">
+    <div id="content" class="col-article">
         <div id="main-sidebar-container">
             <!-- #main Starts -->
             <section id="main">

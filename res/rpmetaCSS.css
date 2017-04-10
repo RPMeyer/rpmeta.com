@@ -9,6 +9,16 @@ body {
     z-index: 0;
 }
 
+.col-article {
+    margin: 0 0 2rem 10%;
+    background-color: rgba(42, 72, 104, 1);
+    z-index: 2;
+    padding: 1rem;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+}
+
 #splashRPM {
     display: none;
     /*margin-top: -16em !important;*/
@@ -353,17 +363,17 @@ ul a:active {
 }
 
 .meta-splash-left {
-  position: relative;
+    position: relative;
 }
 
 .meta-splash-right {
-  position: relative;
+    position: relative;
 }
 
 #EvoClimKillerStrat {
-  max-width: 33.33%;
-  position: absolute;
-  z-index: 99;
+    max-width: 33.33%;
+    position: absolute;
+    z-index: 99;
 }
 
 #product-splash-switch-test {
