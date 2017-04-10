@@ -152,7 +152,6 @@ $(document).ready(function() {
     <!-- #content Starts -->
     <!-- Splashpage container Starts FORMATTED RPM-->
     <div id="content" class="col-article">
-        <div id="article-container">
             <!-- #main Starts -->
             <section id="main">
 <?php
