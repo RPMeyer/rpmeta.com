@@ -15,7 +15,7 @@ body {
     z-index: 2;
     padding: 1rem;
     position: absolute;
-    top: 0;
+    top: 50px !important;
     bottom: 0;
 }
 
