@@ -8,13 +8,13 @@ img {
 body {
     z-index: 0;
 }
-.exerp-float-right {
+.exerp-float.right {
   float: right;
 margin-left: 5%;
 width: 45%;
 }
 
-.exerp-float-left {
+.exerp-float.left {
   float: left;
 margin-right: 5%;
 width: 45%;
@@ -35,7 +35,7 @@ width: 45%;
   font-size: .75rem;
 }
 
-.article-paragraph>q {
+.exerp-float>q {
 font-family: "Heroic",Arial Narrow,Helvetica,sans-serif;
 font-style: italic;
 font-weight: 600;
