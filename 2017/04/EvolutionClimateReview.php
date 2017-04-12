@@ -20,7 +20,7 @@ $template->drawMainOpen();
 		<!--Begin new post entry-->
 
 		<div class="content-container">
-			<div class='post-1 TESTING' id='post-1'>
+			<div class='post-1' id='post-1'>
 				<h3 class='entry-title'>
 					<a title='TESTING POST-2' rel='bookmark' href='rpmeta.com/post/killer-carnivore-strat'>Evolution Climate: Killer Carnivore Strat</a>
 				</h3>
