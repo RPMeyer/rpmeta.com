@@ -21,21 +21,15 @@ $template->drawMainOpen();
 
 		<div class="content-container">
 			<div class='post-1' id='post-1'>
-				<h3 class='entry-title'>
-					<a title='TESTING POST-2' rel='bookmark' href='rpmeta.com/post/killer-carnivore-strat'>Evolution Climate: Killer Carnivore Strat</a>
-				</h3>
 				<!--BEGIN .entry-content-->
+				<h3 class='entry-title'>
+					<a title='Killer-Carnivore-Strat' rel='bookmark' href='rpmeta.com/post/killer-carnivore-strat'>Evolution Climate: Killer Carnivore Strat</a>
+				</h3>
 				<div class='entry-content'>
 					<div class='theExrp'>
-						<a href='http://'>
+						<!-- <a href='http://'>
 							<img src="http://" class="attachment-post-thumbnail" alt="" />
-						</a>
-						<p id='title-of-post'>
-							Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate
-							Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate
-							Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate
-							Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat Evolution Climate Killer Strat
-						</p>
+						</a> -->
 						<p class="article-paragraph">
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi. Vestibulum blandit, enim at aliquet pharetra,
 					       lacus diam vulputate tortor, sed hendrerit diam purus eget urna. Cras porttitor eleifend leo, et faucibus neque venenatis ac.
@@ -72,10 +66,6 @@ $template->drawMainOpen();
 							Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam ut varius nisi. Vestibulum blandit, enim at aliquet pharetra,
 					       lacus diam vulputate tortor, sed hendrerit diam purus eget urna. Cras porttitor eleifend leo, et faucibus neque venenatis ac.
 						</p>
-					</div>
-					<hr/>
-					<div>
-						<a class='more-link' href='#'>read more...</a>
 					</div>
 					<!--END .entry-content-->
 				</div>
