@@ -15,6 +15,9 @@ $template->drawMainOpen();
 				<img src="http://rpmeta.com/res/EvoClimKillerStrat.jpg" alt="" id="EvoClimKillerStrat">
 				<img src="http://rpmeta.com/res/ProductTesting.png" alt="" id="ProductTesting">
 			</div>
+			<h3 class='entry-title'>
+				<a title='meta' rel='bookmark' href='rpmeta.com/meta'>META</a>
+			</h3>
 	</div>
 	<section class="entry">
 		<!--Begin new post entry-->
@@ -22,9 +25,7 @@ $template->drawMainOpen();
 		<div class="content-container">
 			<div class='post-1' id='post-1'>
 				<!--BEGIN .entry-content-->
-				<h3 class='entry-title'>
-					<a title='Killer-Carnivore-Strat' rel='bookmark' href='rpmeta.com/post/killer-carnivore-strat'>Evolution Climate: Killer Carnivore Strat</a>
-				</h3>
+
 				<div class='entry-content'>
 					<div class='theExrp'>
 						<!-- <a href='http://'>
