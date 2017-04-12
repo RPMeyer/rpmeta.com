@@ -14,10 +14,11 @@ $template->drawMainOpen();
 			<div id="meta-splash-placeholder">
 				<img src="http://rpmeta.com/res/EvoClimKillerStrat.jpg" alt="" id="EvoClimKillerStrat">
 				<img src="http://rpmeta.com/res/ProductTesting.png" alt="" id="ProductTesting">
+				<h3 class='entry-title'>
+					<a title='meta' rel='bookmark' href='rpmeta.com/meta'>META</a>
+				</h3>
 			</div>
-			<h3 class='entry-title'>
-				<a title='meta' rel='bookmark' href='rpmeta.com/meta'>META</a>
-			</h3>
+
 	</div>
 	<section class="entry">
 		<!--Begin new post entry-->
