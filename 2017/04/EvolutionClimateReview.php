@@ -14,7 +14,7 @@ $template->drawMainOpen();
 			<div id="meta-splash-placeholder">
 				<img src="http://rpmeta.com/res/EvoClimKillerStrat.jpg" alt="" id="EvoClimKillerStrat">
 				<img src="http://rpmeta.com/res/ProductTesting.png" alt="" id="ProductTesting">
-				<a class="entry-title" title='meta' rel='bookmark' href='rpmeta.com/meta'>META</a>
+				<a class="entry-title" title='meta' rel='bookmark' href='http://rpmeta.com/meta.rpmeta.com/index.php'>META</a>
 			</div>
 
 	</div>
