@@ -333,7 +333,11 @@ ul a:active {
 
 /*-------------------------------------------------------------------------------------------*/
 
-.entry-title>a {
+.entry-title>h3 {
+    display: inline-block !important;
+}
+
+#meta-splash-placeholder > a.entry-title {
   position: absolute;
 bottom: 0;
 right: 5%;
