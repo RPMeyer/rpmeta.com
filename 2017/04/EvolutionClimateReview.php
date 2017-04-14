@@ -10,11 +10,11 @@ $template->drawMainOpen();
 		<h1 class="entry-title">TESTING ENTRY-TITLE (Reviews Products and the Meta)</h1>
 	</header>
 	<div class="meta-splash-left">
-		<a href="#">
+		<a href="#">META
 			<div id="meta-splash-placeholder">
 				<img src="http://rpmeta.com/res/EvoClimKillerStrat.jpg" alt="" id="EvoClimKillerStrat">
 				<img src="http://rpmeta.com/res/ProductTesting.png" alt="" id="ProductTesting">
-				<a class="entry-title" title='meta' rel='bookmark' href='rpmeta.com/meta'>META</a>
+				<!-- <a class="entry-title" title='meta' rel='bookmark' href='rpmeta.com/meta'>META</a> -->
 			</div>
 
 	</div>
