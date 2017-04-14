@@ -333,8 +333,14 @@ ul a:active {
 
 /*-------------------------------------------------------------------------------------------*/
 
-.entry-title>h3 {
-    display: inline-block !important;
+.entry-title>a {
+  position: absolute;
+bottom: 0;
+right: 5%;
+font: 300 10vw "Arial Black", Gadget, sans-serif;
+background: linear-gradient(to bottom, rgb(0, 0, 0) 0%,rgb(0, 0, 0) 44%,rgb(42, 72, 104) 100%);
+-webkit-background-clip: text;
+-webkit-text-fill-color: transparent;
 }
 
 .post-1 {
