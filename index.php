@@ -17,7 +17,7 @@ $template->drawMainOpen();
 			<!-- <img src="http://rpmeta.com/res/ProductImageLeft.svg" class="product-template"/> -->
 			<a href="http://rpmeta.com/reviews.rpmeta.com/2017/04/EvolutionClimateReview.php">
 				<div id="product-splash-zelda-test">
-					<img src="http://rpmeta.com/res/EvolutionClimateThumbnail.jpg" alt="" id="SwitchThumb">
+					<img src="http://rpmeta.com/res/EvolutionClimateThumbnail.jpg" alt="" id="ReviewPost">
 					<img src="http://rpmeta.com/res/ProductTestingRight.png" alt="" id="ProductTesting">
 				</div>
 			<!-- <img src="http://rpmeta.com/res/ProductImageTest.jpg" class="product-image-left"/> -->
