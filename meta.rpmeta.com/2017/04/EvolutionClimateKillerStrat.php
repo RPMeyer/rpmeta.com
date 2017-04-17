@@ -12,7 +12,7 @@ $template->drawMainOpen();
 	<div class="meta-splash-left">
 		<a href="#">
 			<div id="meta-splash-placeholder">
-				<img src="http://rpmeta.com/res/EvoClimKillerStrat.jpg" alt="" id="MetaPost">
+				<img src="http://rpmeta.com/res/EvoClimKillerStrat.jpg" alt="" id="PostLeftFormat">
 				<img src="http://rpmeta.com/res/ProductTesting.png" alt="" id="ProductTesting">
 				<a class="entry-title" title='meta' rel='bookmark' href='http://rpmeta.com/meta.rpmeta.com/index.php'>META</a>
 			</div>
