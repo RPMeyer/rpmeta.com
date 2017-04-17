@@ -14,7 +14,7 @@ $template->drawMainOpen();
 		<div class="meta-splash-left">
 			<a href="http://rpmeta.com/meta.rpmeta.com/2017/04/EvolutionClimateKillerStrat.php">
 				<div id="meta-splash-placeholder">
-					<img src="http://rpmeta.com/res/EvoClimKillerStrat.jpg" alt="" id="PostRightFormat">
+					<img src="http://rpmeta.com/res/EvoClimKillerStrat.jpg" alt="" id="PostLeftFormat">
 					<img src="http://rpmeta.com/res/ProductTesting.png" alt="" id="ProductTesting">
 				</div>
 		</div>
