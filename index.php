@@ -15,7 +15,7 @@ $template->drawMainOpen();
 		<!--Begin new post entry-->
 		<div class="product-splash-right">
 			<!-- <img src="http://rpmeta.com/res/ProductImageLeft.svg" class="product-template"/> -->
-			<a href="http://rpmeta.com/meta.rpmeta.com/2017/04/EvoClimKillerStrat.php">
+			<a href="http://rpmeta.com/meta.rpmeta.com/2017/04/EvolutionClimateKillerStrat.php">
 				<div id="product-splash-zelda-test">
 					<img src="http://rpmeta.com/res/EvoClimKillerStrat.jpg" alt="" id="PostLeftFormat">
 					<img src="http://rpmeta.com/res/ProductTesting.png" alt="" id="ProductTesting">
@@ -123,7 +123,7 @@ $template->drawMainOpen();
 			<a href="#">
 				<div id="product-splash-switch-test">
 					<img src="http://rpmeta.com/res/SwitchThumb.png" alt="" id="SwitchThumb">
-					<img src="http://rpmeta.com/res/ProductTestingRight.png" alt="" id="ProductTesting">
+					<img src="http://rpmeta.com/res/ProductTesting.png" alt="" id="ProductTestingRight">
 				</div>
 			<!-- <img src="http://rpmeta.com/res/ProductImageTest.jpg" class="product-image-left"/> -->
 		</div>
