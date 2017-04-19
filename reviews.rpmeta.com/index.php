@@ -77,35 +77,6 @@ $template->drawMainOpen();
 			</div>
 		</div>
 		<!--END new post entry .hentry-->
-		<!--Begin new post entry-->
-		<div class="product-splash-left">
-			<a> REVIEW </a>
-		</div>
-		<div class="content-container">
-			<div class='post-1 TESTING' id='post-1'>
-				<h3 class='entry-title'>
-					<a title='TESTING POST-2' rel='bookmark' href='#'>Reviews Products and the Meta</a>
-				</h3>
-				<!--BEGIN .entry-content-->
-				<div class='entry-content'>
-					<div class='theExrp'>
-						<a href='http://'>
-							<img src="http://" class="attachment-post-thumbnail" alt="" />
-						</a>
-						<p id='title-of-post'>
-							Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing Nintendo Switch Unboxing
-						</p>
-					</div>
-					<hr/>
-					<div>
-						<a class='more-link' href='#'>read more...</a>
-					</div>
-					<!--END .entry-content-->
-				</div>
-			</div>
-		</div>
-		<!--END new post entry .hentry-->
-		<!-- </div> -->
 	</section>
 </article>
 <?php
