@@ -337,7 +337,7 @@ ul a:active {
     display: inline-block !important;
 }
 
-#meta-splash-placeholder>a.entry-title {
+#title-splash-right>a.entry-title {
     position: absolute;
     bottom: 0;
     right: 0%;

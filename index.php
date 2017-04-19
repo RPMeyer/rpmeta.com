@@ -16,7 +16,7 @@ $template->drawMainOpen();
 		<div class="product-splash-right">
 			<!-- <img src="http://rpmeta.com/res/ProductImageLeft.svg" class="product-template"/> -->
 			<a href="http://rpmeta.com/meta.rpmeta.com/2017/04/EvolutionClimateKillerStrat.php">
-				<div id="meta-splash-placeholder">
+				<div id="title-splash-right">
 					<img src="http://rpmeta.com/res/EvoClimKillerStrat.jpg" alt="" id="PostLeftFormat">
 					<img src="http://rpmeta.com/res/ProductTesting.png" alt="" id="ProductTesting">
 					<a class="entry-title" title='meta' rel='bookmark' href='http://rpmeta.com/meta.rpmeta.com/index.php'>META</a>
