@@ -12,9 +12,9 @@ $template->drawMainOpen();
 	<section class="entry">
 		<!--Begin new post entry-->
 		<div class="meta-splash-left">
-			<a href="http://rpmeta.com/meta.rpmeta.com/2017/04/EvolutionClimateKillerStrat.php">
+			<a href="http://rpmeta.com/reviews.rpmeta.com/2017/04/EvolutionClimateReview.php">
 				<div id="meta-splash-placeholder">
-					<img src="http://rpmeta.com/res/EvoluitionClimateThumbnail.jpg" alt="" id="PostLeftFormat">
+					<img src="http://rpmeta.com/res/EvolutionClimateThumbnail.jpg" alt="" id="PostLeftFormat">
 					<img src="http://rpmeta.com/res/ProductTesting.png" alt="" id="ProductTesting">
 				</div>
 		</div>
