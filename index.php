@@ -88,9 +88,11 @@ $template->drawMainOpen();
 		<div class="product-splash-left">
 			<!-- <img src="http://rpmeta.com/res/ProductImageLeft.svg" class="product-template"/> -->
 			<a href="#">
-				<div id="product-splash-zelda-test">
+				<div id="title-splash-right">
 					<img src="http://rpmeta.com/res/BoTWTestingThumb.png" alt="" id="BOTWTestingThumb">
 					<img src="http://rpmeta.com/res/ProductTesting.png" alt="" id="ProductTesting">
+					<a class="entry-title" title='review' rel='bookmark' href='http://rpmeta.com/reviews.rpmeta.com/index.php'>Review</a>
+
 				</div>
 			<!-- <img src="http://rpmeta.com/res/ProductImageTest.jpg" class="product-image-left"/> -->
 		</div>
