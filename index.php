@@ -52,9 +52,10 @@ $template->drawMainOpen();
 		<div class="product-splash-right">
 			<!-- <img src="http://rpmeta.com/res/ProductImageLeft.svg" class="product-template"/> -->
 			<a href="http://rpmeta.com/reviews.rpmeta.com/2017/04/EvolutionClimateReview.php">
-				<div id="product-splash-zelda-test">
+				<div id="meta-splash-placeholder">
 					<img src="http://rpmeta.com/res/EvolutionClimateThumbnail.jpg" alt="" id="PostRightFormat">
 					<img src="http://rpmeta.com/res/ProductTesting.png" alt="" id="ProductTestingRight">
+					<a class="entry-title" title='meta' rel='bookmark' href='http://rpmeta.com/meta.rpmeta.com/index.php'>META</a>
 				</div>
 			<!-- <img src="http://rpmeta.com/res/ProductImageTest.jpg" class="product-image-left"/> -->
 		</div>
