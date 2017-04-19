@@ -14,7 +14,7 @@ $template->drawMainOpen();
 		<div class="meta-splash-left">
 			<a href="http://rpmeta.com/meta.rpmeta.com/2017/04/EvolutionClimateKillerStrat.php">
 				<div id="meta-splash-placeholder">
-					<img src="http://rpmeta.com/res/EvoClimKillerStrat.jpg" alt="" id="PostLeftFormat">
+					<img src="http://rpmeta.com/res/EvoluitionClimateThumbnail.jpg" alt="" id="PostLeftFormat">
 					<img src="http://rpmeta.com/res/ProductTesting.png" alt="" id="ProductTesting">
 				</div>
 		</div>
@@ -102,98 +102,6 @@ $template->drawMainOpen();
 					</div>
 					<!--END .entry-content-->
 				</div>
-			</div>
-		</div>
-		<!--END new post entry .hentry-->
-		<!--Begin new post entry-->
-		<div class='post-2 TESTING' id='post-2'>
-			<h3 class='entry-title'>
-				<a title='TESTING POST-2' rel='bookmark' href='#'>Reviews Products and the Meta</a>
-			</h3>
-			<!--BEGIN .entry-content-->
-			<div class='entry-content'>
-				<div class='theExrp'>
-					<a href='http://'>
-						<img src="http://" class="attachment-post-thumbnail" alt="" />
-					</a>
-					<p id='title-of-post'>
-						Nintendo Switch Hardware Review
-					</p>
-				</div>
-				<hr/>
-				<div>
-					<a class='more-link' href='#'>read more...</a>
-				</div>
-				<!--END .entry-content-->
-			</div>
-		</div>
-		<!--END new post entry .hentry-->
-		<!--Begin new post entry-->
-		<div class='post-3 TESTING' id='post-3'>
-			<h3 class='entry-title'>
-				<a title='TESTING POST-2' rel='bookmark' href='#'>Reviews Products and the Meta</a>
-			</h3>
-			<!--BEGIN .entry-content-->
-			<div class='entry-content'>
-				<div class='theExrp'>
-					<a href='http://'>
-						<img src="http://" class="attachment-post-thumbnail" alt="" />
-					</a>
-					<p id='title of post'>
-						Nintendo Switch Software Review
-					</p>
-				</div>
-				<hr/>
-				<div>
-					<a class='more-link' href='#'>read more...</a>
-				</div>
-				<!--END .entry-content-->
-			</div>
-		</div>
-		<!--END new post entry .hentry-->
-		<!--Begin new post entry-->
-		<div class='post-3 TESTING' id='post-3'>
-			<h3 class='entry-title'>
-				<a title='TESTING POST-2' rel='bookmark' href='#'>Reviews Products and the Meta</a>
-			</h3>
-			<!--BEGIN .entry-content-->
-			<div class='entry-content'>
-				<div class='theExrp'>
-					<a href='http://'>
-						<img src="http://" class="attachment-post-thumbnail" alt="" />
-					</a>
-					<p id='title of post'>
-						Nintendo Switch Software Review
-					</p>
-				</div>
-				<hr/>
-				<div>
-					<a class='more-link' href='#'>read more...</a>
-				</div>
-				<!--END .entry-content-->
-			</div>
-		</div>
-		<!--END new post entry .hentry-->
-		<!--Begin new post entry-->
-		<div class='post-3 TESTING' id='post-3'>
-			<h3 class='entry-title'>
-				<a title='TESTING POST-2' rel='bookmark' href='#'>Reviews Products and the Meta</a>
-			</h3>
-			<!--BEGIN .entry-content-->
-			<div class='entry-content'>
-				<div class='theExrp'>
-					<a href='http://'>
-						<img src="http://" class="attachment-post-thumbnail" alt="" />
-					</a>
-					<p id='title of post'>
-						Nintendo Switch Software Review
-					</p>
-				</div>
-				<hr/>
-				<div>
-					<a class='more-link' href='#'>read more...</a>
-				</div>
-				<!--END .entry-content-->
 			</div>
 		</div>
 		<!--END new post entry .hentry-->
